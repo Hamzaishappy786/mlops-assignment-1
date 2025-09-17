@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/Home/PycharmProjects/Basic projects/mlops-assignment-1/src/mlruns_iris/148731765894909086/models/m-72d68f79d2a54eddb64c4d9bde296da7/artifacts
+creation_timestamp: 1758140328971
+experiment_id: '148731765894909086'
+last_updated_timestamp: 1758140332202
+model_id: m-72d68f79d2a54eddb64c4d9bde296da7
+model_type: null
+name: model
+source_run_id: 038a829fecfb47499be2e96b74f50c68
+status: 2
+status_message: null

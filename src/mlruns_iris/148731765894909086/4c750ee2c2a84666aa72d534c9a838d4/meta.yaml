@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Home/PycharmProjects/Basic projects/mlops-assignment-1/src/mlruns_iris/148731765894909086/4c750ee2c2a84666aa72d534c9a838d4/artifacts
+end_time: 1758140335729
+entry_point_name: ''
+experiment_id: '148731765894909086'
+lifecycle_stage: active
+run_id: 4c750ee2c2a84666aa72d534c9a838d4
+run_name: KNN
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758140332229
+status: 3
+tags: []
+user_id: Home
