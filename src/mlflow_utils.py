@@ -97,3 +97,5 @@ if os.path.exists(mlruns_path):
     print(f"✅ MLruns directory created at: {mlruns_path}")
 else:
     print(f"❌ MLruns directory NOT created at: {mlruns_path}")
+
+#ml flow working
