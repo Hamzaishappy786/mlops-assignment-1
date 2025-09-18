@@ -1,11 +1,23 @@
-# MLOps Assignment 1: Iris Classification with MLflow
+# MLOps Assignment 1: Model Monitoring and Registration using MLflow
+
+**Author**: Muhammad Hamza
 
 This project demonstrates **end-to-end MLOps workflow** on the classic Iris dataset.  
-We train Logistic Regression, SVM, and KNN classifiers, track experiments with **MLflow**, compare results, and register the best model.
+I have trained Logistic Regression, SVM, and KNN classifiers, tracked their experiments with **MLflow**, compared their results, and registered the best model.
+
+## Problem Statement:
+
+Classify **Iris flowers** (setosa, versicolor, virginica) based on 4 features:  
+- sepal length  
+- sepal width  
+- petal length  
+- petal width  
+
+**Goal:** build multiple models, track their experiments with MLflow, compare their performance metrics, and register the best one on mlflow.
 
 ---
 
-## Project Structure
+## Project Structure:
 
 ```bash
 mlops-assignment-1/
@@ -19,7 +31,7 @@ mlops-assignment-1/
 ├── results/                   # Metrics JSON + confusion matrices
 ├── src/                       # Source codes
 │   ├── Comparison_of_all_models.py
-│   ├── mlflow_utils.py        # Core MLflow logging (95/5 split)
+│   ├── mlflow_utils.py        # Core MLflow logging
 │   ├── train_logistic_regression.py
 │   ├── train_svm.py
 │   ├── train_knn.py
@@ -41,9 +53,9 @@ mlops-assignment-1/
 
 ## Models & Rationale
 
-- **Logistic Regression** – simple baseline, interpretable.  
-- **SVM (linear kernel)** – robust with high-dimensional separation.  
-- **KNN** – non-parametric, leverages neighborhood similarity.
+- **Logistic Regression**: simple baseline, interpretable.  
+- **SVM (linear kernel)**: robust with high-dimensional separation.  
+- **KNN**: non-parametric, leverages neighborhood similarity.
 
 ---
 
@@ -52,7 +64,7 @@ mlops-assignment-1/
 ### 1. Create virtual environment & install dependencies
 ```
 python -m venv .venv
-.venv\Scripts\activate     # (Windows)
+.venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
@@ -79,7 +91,7 @@ Runs are stored under Experiment: **iris_models_individual**
 Artifacts (confusion matrices, JSON) are in results/
 Saved models are in models/
 
-## 📊 MLflow Tracking
+## MLflow Tracking
 
 Each run logs:
 Parameters (e.g., hyperparameters)
@@ -94,7 +106,7 @@ Tick checkboxes in MLflow UI → Compare → view side-by-side metrics & charts.
 | Model               | Accuracy | Precision | Recall | F1    |
 | ------------------- | -------- | --------- | ------ | ----- |
 | Logistic Regression | 0.741    | 0.855     | 0.741  | 0.697 |
-| SVM (Linear)        | 0.944    | 0.952     | 0.944  | 0.944 |
+| **SVM (Linear)**        | **0.944**    | **0.952**     | **0.944**  | **0.944** |
 | KNN                 | 0.783    | 0.869     | 0.783  | 0.758 |
 
 #### Model Registration:
@@ -108,7 +120,7 @@ Registered under name: iris_classifier
 
 We can view versions in MLflow UI → Models tab → currently have 2 versions
 
-# 🖼️ Screenshots:
+# Screenshots:
 
 Expiremnt runs in MLFlow:
 <img width="1920" height="610" alt="image" src="https://github.com/user-attachments/assets/00ddd28d-e91b-4886-af63-07c5ac362f11" />
@@ -140,13 +152,18 @@ Models tab showing iris_classifier versions(currently 2):
 <img width="1920" height="716" alt="image" src="https://github.com/user-attachments/assets/569ea150-13bf-41cb-bbbb-e7e1e4688173" />
  
 
-🛠️ Repro Tips / Common Issues
+Repro Tips / Common Issues
 
 MLflow UI shows “Failed to fetch” → Start from repo root & use absolute file:/// path.
+
 Runs don’t appear → Ensure mlflow.set_tracking_uri() points to same store.
+
 Windows paths with spaces → Use %20 in file URI (see command above).
 
-### 📜 License & Acknowledgments
+### License & Acknowledgments
 
-Dataset: scikit-learn Iris
+**Dataset:** scikit-learn Iris
+
+**Author:** Muhammad Hamza
+
 This repo is for educational purposes (MLOps assignment#1).
