@@ -1,11 +1,11 @@
-# 🌸 MLOps Assignment 1: Iris Classification with MLflow
+# MLOps Assignment 1: Iris Classification with MLflow
 
 This project demonstrates **end-to-end MLOps workflow** on the classic Iris dataset.  
 We train Logistic Regression, SVM, and KNN classifiers, track experiments with **MLflow**, compare results, and register the best model.
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```bash
 mlops-assignment-1/
@@ -30,7 +30,7 @@ mlops-assignment-1/
 
 ---
 
-## 🌱 Dataset
+## Dataset
 
 - **Source:** scikit-learn `load_iris()`
 - **Features (4):** sepal length, sepal width, petal length, petal width  
@@ -39,7 +39,7 @@ mlops-assignment-1/
 
 ---
 
-## 🤖 Models & Rationale
+## Models & Rationale
 
 - **Logistic Regression** – simple baseline, interpretable.  
 - **SVM (linear kernel)** – robust with high-dimensional separation.  
@@ -47,7 +47,7 @@ mlops-assignment-1/
 
 ---
 
-## ⚡ How to Run
+## How to Run
 
 ### 1. Create virtual environment & install dependencies
 ```
@@ -97,11 +97,10 @@ Tick checkboxes in MLflow UI → Compare → view side-by-side metrics & charts.
 | SVM (Linear)        | 0.944    | 0.952     | 0.944  | 0.944 |
 | KNN                 | 0.783    | 0.869     | 0.783  | 0.758 |
 
-📦 Model Registration
-
+#### Model Registration:
 Best model: SVM (almost highest in every metric).
 
-Register with:
+#### Register with:
 ```
 python src/register_model_enhanced.py
 ```
@@ -109,7 +108,7 @@ Registered under name: iris_classifier
 
 We can view versions in MLflow UI → Models tab → currently have 2 versions
 
-🖼️ Screenshots (placeholders)
+# 🖼️ Screenshots:
 
 Expiremnt runs in MLFlow:
 <img width="1920" height="610" alt="image" src="https://github.com/user-attachments/assets/00ddd28d-e91b-4886-af63-07c5ac362f11" />
