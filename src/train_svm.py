@@ -95,3 +95,5 @@ with mlflow.start_run(run_name="SVM_95_5"):
     print(f"[SVM] Done → Accuracy: {acc:.4f}, F1: {f1:.4f}")
     print(f"Model saved at: {model_path}")
     print(f"Metrics saved at: {metrics_path}")
+
+    # svm
