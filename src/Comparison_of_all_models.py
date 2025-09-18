@@ -73,3 +73,19 @@ if comparison:
     plt.close()
 
     print(f"📊 Comparison plot saved at {plot_path}")
+
+    # ---- Line Chart for Accuracy ----
+    plt.figure(figsize=(8, 5))
+    plt.plot(models, accuracies, marker="o", linestyle="-", color="b", label="Accuracy")
+    plt.ylim(0, 1.1)
+    plt.xlabel("Models")
+    plt.ylabel("Accuracy")
+    plt.title("Accuracy Comparison (Line Chart)")
+    plt.grid(True, linestyle="--", alpha=0.6)
+    plt.legend()
+
+    line_plot_path = results_dir / "accuracy_line_chart.png"
+    plt.savefig(line_plot_path)
+    plt.close()
+
+    print(f"📈 Accuracy line chart saved at {line_plot_path}")

@@ -1,20 +1,20 @@
 {
     "Logistic Regression": {
-        "accuracy": 1.0,
-        "precision": 1.0,
-        "recall": 1.0,
-        "f1_score": 1.0
+        "accuracy": 0.7832167832167832,
+        "precision": 0.8675213675213675,
+        "recall": 0.7847222222222223,
+        "f1_score": 0.7583589743589743
     },
     "SVM": {
-        "accuracy": 1.0,
-        "precision": 1.0,
-        "recall": 1.0,
-        "f1_score": 1.0
+        "accuracy": 0.9440559440559441,
+        "precision": 0.9515151515151515,
+        "recall": 0.9444444444444445,
+        "f1_score": 0.9435531788472965
     },
     "KNN": {
-        "accuracy": 1.0,
-        "precision": 1.0,
-        "recall": 1.0,
-        "f1_score": 1.0
+        "accuracy": 0.7412587412587412,
+        "precision": 0.8531746031746031,
+        "recall": 0.7430555555555557,
+        "f1_score": 0.6968128692802001
     }
 }
