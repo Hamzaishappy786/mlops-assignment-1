@@ -24,7 +24,7 @@ if not results_dir.exists():
 # Load dataset
 X, y = load_iris(return_X_y=True)
 X_train, X_test, y_train, y_test = train_test_split(
-    X, y, test_size=0.2, random_state=42
+    X, y, test_size=0.95, random_state=42
 )
 
 # Train model
