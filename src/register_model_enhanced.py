@@ -99,3 +99,4 @@ print("1. Start UI: mlflow ui --backend-store-uri \"file:///C:/Users/Home/Pychar
 print("2. Go to Models tab")
 print("3. Click on 'iris_classifier'")
 print("4. You should see version 1 with description and metrics")
+# model enhancement
