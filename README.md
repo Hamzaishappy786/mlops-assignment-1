@@ -119,6 +119,8 @@ Total runs in iris_models_individual:
 Metric plots (accuracy/precision/recall/F1)
 <img width="1674" height="359" alt="image" src="https://github.com/user-attachments/assets/9c372e4a-a973-4657-9c8c-360f0347f808" />
 
+<img width="800" height="500" alt="accuracy_line_chart" src="https://github.com/user-attachments/assets/d1719968-47bb-44be-83cb-bf26c7b4b9c4" />
+
 <img width="1920" height="841" alt="image" src="https://github.com/user-attachments/assets/8e1467fc-184c-4ea4-825f-0f630731c97d" />
 
  
