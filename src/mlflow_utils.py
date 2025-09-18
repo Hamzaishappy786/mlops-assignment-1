@@ -14,7 +14,7 @@ from mlflow.models import infer_signature
 # Get absolute path to avoid issues
 current_dir = os.path.dirname(os.path.abspath(__file__))
 project_root = os.path.dirname(current_dir)
-mlruns_path = os.path.join(project_root, "mlruns_iris")
+mlruns_path = os.path.join(project_root, "mlruns_individual")
 results_path = os.path.join(project_root, "results")
 
 print(f"Project root: {project_root}")
@@ -83,7 +83,7 @@ models = {
 
 # Set tracking URI with absolute path
 mlflow.set_tracking_uri(f"file:///{mlruns_path.replace(os.sep, '/')}")
-mlflow.set_experiment("iris_models")
+mlflow.set_experiment("mlruns_individual")
 
 # 🚀 Train + Log each model
 for model_name, (model, params) in models.items(): 
