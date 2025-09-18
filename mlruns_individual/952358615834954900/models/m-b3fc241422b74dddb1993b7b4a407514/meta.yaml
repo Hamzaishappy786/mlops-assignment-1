@@ -1,0 +1,10 @@
+artifact_location: file:///C:\Users\Home\PycharmProjects\Basic projects\mlops-assignment-1\mlruns_individual/952358615834954900/models/m-b3fc241422b74dddb1993b7b4a407514/artifacts
+creation_timestamp: 1758171055779
+experiment_id: '952358615834954900'
+last_updated_timestamp: 1758171062362
+model_id: m-b3fc241422b74dddb1993b7b4a407514
+model_type: null
+name: logistic regression
+source_run_id: 2194113389f841dc85774053b1af6574
+status: 2
+status_message: null

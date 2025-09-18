@@ -1,0 +1,14 @@
+artifact_uri: file:///C:\Users\Home\PycharmProjects\Basic projects\mlops-assignment-1\mlruns_individual/952358615834954900/5a0dd96ff6354d879300c09281e2ad4c/artifacts
+end_time: 1758171065892
+entry_point_name: ''
+experiment_id: '952358615834954900'
+lifecycle_stage: active
+run_id: 5a0dd96ff6354d879300c09281e2ad4c
+run_name: SVM_95_5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758171058882
+status: 3
+tags: []
+user_id: Home

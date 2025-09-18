@@ -1,0 +1,8 @@
+aliases: {}
+creation_timestamp: 1758172087053
+deployment_job_id: null
+deployment_job_state: null
+description: Best performing model for Iris flower classification. Logistic Regression
+  trained on 95% test split.
+last_updated_timestamp: 1758173933123
+name: iris_classifier

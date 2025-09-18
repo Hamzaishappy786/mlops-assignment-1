@@ -1,0 +1,18 @@
+aliases: []
+creation_timestamp: 1758172087057
+current_stage: None
+deployment_job_state: null
+description: null
+last_updated_timestamp: 1758172087057
+metrics: null
+model_id: m-77d55f22b6e74468a53145ad593a984e
+name: iris_classifier
+params: null
+run_id: 5b64aaf5ca324d69be83eefbe97d7f4c
+run_link: null
+source: models:/m-77d55f22b6e74468a53145ad593a984e
+status: READY
+status_message: null
+storage_location: file:///C:\Users\Home\PycharmProjects\Basic projects\mlops-assignment-1\mlruns_individual/0/models/m-77d55f22b6e74468a53145ad593a984e/artifacts
+user_id: null
+version: 1

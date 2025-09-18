@@ -1,0 +1,14 @@
+artifact_uri: file:///C:\Users\Home\PycharmProjects\Basic projects\mlops-assignment-1\mlruns_individual/952358615834954900/2194113389f841dc85774053b1af6574/artifacts
+end_time: 1758171062381
+entry_point_name: ''
+experiment_id: '952358615834954900'
+lifecycle_stage: active
+run_id: 2194113389f841dc85774053b1af6574
+run_name: Logistic_Regression_95_5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758171055337
+status: 3
+tags: []
+user_id: Home

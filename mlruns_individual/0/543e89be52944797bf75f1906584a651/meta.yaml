@@ -1,0 +1,14 @@
+artifact_uri: file:///C:\Users\Home\PycharmProjects\Basic projects\mlops-assignment-1\mlruns_individual/0/543e89be52944797bf75f1906584a651/artifacts
+end_time: 1758173852898
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 543e89be52944797bf75f1906584a651
+run_name: register_best_model_enhanced
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758173852811
+status: 4
+tags: []
+user_id: Home

@@ -1,0 +1,10 @@
+artifact_location: file:///C:\Users\Home\PycharmProjects\Basic projects\mlops-assignment-1\mlruns_individual/952358615834954900/models/m-542ec2d14b874e80922014f79ee494a9/artifacts
+creation_timestamp: 1758171064167
+experiment_id: '952358615834954900'
+last_updated_timestamp: 1758171069864
+model_id: m-542ec2d14b874e80922014f79ee494a9
+model_type: null
+name: KNN
+source_run_id: 019bd26666c84531a89189a1c41ab8eb
+status: 2
+status_message: null

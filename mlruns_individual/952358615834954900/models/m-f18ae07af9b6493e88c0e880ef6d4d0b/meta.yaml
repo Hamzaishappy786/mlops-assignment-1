@@ -1,0 +1,10 @@
+artifact_location: file:///C:\Users\Home\PycharmProjects\Basic projects\mlops-assignment-1\mlruns_individual/952358615834954900/models/m-f18ae07af9b6493e88c0e880ef6d4d0b/artifacts
+creation_timestamp: 1758171059333
+experiment_id: '952358615834954900'
+last_updated_timestamp: 1758171065874
+model_id: m-f18ae07af9b6493e88c0e880ef6d4d0b
+model_type: null
+name: SVM
+source_run_id: 5a0dd96ff6354d879300c09281e2ad4c
+status: 2
+status_message: null
