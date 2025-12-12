@@ -1,0 +1,8 @@
+airflow_setup/
+dvcstore/
+venv/
+.git/
+.github/
+notebooks/
+tests/
+__pycache__/
