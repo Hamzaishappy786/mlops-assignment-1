@@ -1,0 +1,8 @@
+stages:
+  train_model:
+    cmd: python src/train.py
+    deps:
+    - data/dataset.csv
+    - src/train.py
+    outs:
+    - models/model.pkl

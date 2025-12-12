@@ -1,0 +1,978 @@
+ICD9_CODE,SHORT_TITLE,LONG_TITLE
+1590,Malig neo intestine NOS,"Malignant neoplasm of intestinal tract, part unspecified"
+1591,Malignant neo spleen NEC,"Malignant neoplasm of spleen, not elsewhere classified"
+1598,Mal neo gi/intra-abd NEC,Malignant neoplasm of other sites of digestive system and intra-abdominal organs
+1599,Mal neo GI tract ill-def,Malignant neoplasm of ill-defined sites within the digestive organs and peritoneum
+1712,Mal neo soft tissue arm,"Malignant neoplasm of connective and other soft tissue of upper limb, including shoulder"
+1713,Mal neo soft tissue leg,"Malignant neoplasm of connective and other soft tissue of lower limb, including hip"
+1714,Mal neo soft tis thorax,Malignant neoplasm of connective and other soft tissue of thorax
+1715,Mal neo soft tis abdomen,Malignant neoplasm of connective and other soft tissue of abdomen
+1716,Mal neo soft tis pelvis,Malignant neoplasm of connective and other soft tissue of pelvis
+1717,Mal neopl trunk NOS,"Malignant neoplasm of connective and other soft tissue of trunk, unspecified"
+1718,Mal neo soft tissue NEC,Malignant neoplasm of other specified sites of connective and other soft tissue
+1719,Mal neo soft tissue NOS,"Malignant neoplasm of connective and other soft tissue, site unspecified"
+1720,Malig melanoma lip,Malignant melanoma of skin of lip
+1721,Malig melanoma eyelid,"Malignant melanoma of skin of eyelid, including canthus"
+1722,Malig melanoma ear,Malignant melanoma of skin of ear and external auditory canal
+1723,Mal melanom face NEC/NOS,Malignant melanoma of skin of other and unspecified parts of face
+1724,Mal melanoma scalp/neck,Malignant melanoma of skin of scalp and neck
+1725,Malig melanoma trunk,"Malignant melanoma of skin of trunk, except scrotum"
+1726,Malig melanoma arm,"Malignant melanoma of skin of upper limb, including shoulder"
+1727,Malig melanoma leg,"Malignant melanoma of skin of lower limb, including hip"
+1728,Malig melanoma skin NEC,Malignant melanoma of other specified sites of skin
+1729,Malig melanoma skin NOS,"Melanoma of skin, site unspecified"
+17300,Malig neopl skin lip NOS,Unspecified malignant neoplasm of skin of lip
+17301,Basal cell ca skin lip,Basal cell carcinoma of skin of lip
+17302,Squamous cell ca skn lip,Squamous cell carcinoma of skin of lip
+17309,Malig neo skin lip NEC,Other specified malignant neoplasm of skin of lip
+17310,Mal neo eyelid/canth NOS,"Unspecified malignant neoplasm of eyelid, including canthus"
+17311,Basal cell ca lid/canth,"Basal cell carcinoma of eyelid, including canthus"
+17312,Squam cell ca lid/canth,"Squamous cell carcinoma of eyelid, including canthus"
+17319,Mal neo eyelid/canth NEC,"Other specified malignant neoplasm of eyelid, including canthus"
+17320,Malig neo skin ear NOS,Unspecified malignant neoplasm of skin of ear and external auditory canal
+17321,Basal cell ca skin ear,Basal cell carcinoma of skin of ear and external auditory canal
+17322,Squam cell ca skin ear,Squamous cell carcinoma of skin of ear and external auditory canal
+17329,Neo skin ear/ex canl NEC,Other specified malignant neoplasm of skin of ear and external auditory canal
+17330,Mal neo skn face NEC/NOS,Unspecified malignant neoplasm of skin of other and unspecified parts of face
+17331,Bsl cel skn face NEC/NOS,Basal cell carcinoma of skin of other and unspecified parts of face
+17332,Sqm cel skn face NEC/NOS,Squamous cell carcinoma of skin of other and unspecified parts of face
+17339,Mal neo skn face NEC/NOS,Other specified malignant neoplasm of skin of other and unspecified parts of face
+17340,Mal neo sclp/skn nck NOS,Unspecified malignant neoplasm of scalp and skin of neck
+17341,Bsl cell ca scalp/skn nk,Basal cell carcinoma of scalp and skin of neck
+17342,Sqam cell ca sclp/skn nk,Squamous cell carcinoma of scalp and skin of neck
+17349,Mal neo sclp/skn nck NEC,Other specified malignant neoplasm of scalp and skin of neck
+17350,Malig neo skin trunk NOS,"Unspecified malignant neoplasm of skin of trunk, except scrotum"
+17351,Basal cell ca skin trunk,"Basal cell carcinoma of skin of trunk, except scrotum"
+17352,Squam cell ca skin trunk,"Squamous cell carcinoma of skin of trunk, except scrotum"
+17359,Malig neo skin trunk NEC,"Other specified malignant neoplasm of skin of trunk, except scrotum"
+17360,Mal neo skin up limb NOS,"Unspecified malignant neoplasm of skin of upper limb, including shoulder"
+17361,Basal cell ca skn up lmb,"Basal cell carcinoma of skin of upper limb, including shoulder"
+17362,Squam cell ca skn up lmb,"Squamous cell carcinoma of skin of upper limb, including shoulder"
+17369,Malig neo skn up lmb NEC,"Other specified malignant neoplasm of skin of upper limb, including shoulder"
+17370,Mal neo skn low limb NOS,"Unspecified malignant neoplasm of skin of lower limb, including hip"
+17371,Basl cell ca skn low lmb,"Basal cell carcinoma of skin of lower limb, including hip"
+17372,Sqam cell ca skn low lmb,"Squamous cell carcinoma of skin of lower limb, including hip"
+17379,Mal neo skin low lmb NEC,"Other specified malignant neoplasm of skin of lower limb, including hip"
+17380,Mal neo skn site NEC/NOS,Unspecified malignant neoplasm of other specified sites of skin
+17381,Bsl cell ca skn site NEC,Basal cell carcinoma of other specified sites of skin
+17382,Sqm cell ca skn site NEC,Squamous cell carcinoma of other specified sites of skin
+17389,Oth mal neo skn site NEC,Other specified malignant neoplasm of other specified sites of skin
+17390,Malig neo skin site NOS,"Unspecified malignant neoplasm of skin, site unspecified"
+17391,Basal cell ca skin NOS,"Basal cell carcinoma of skin, site unspecified"
+1600,Mal neo nasal cavities,Malignant neoplasm of nasal cavities
+1601,Malig neo middle ear,"Malignant neoplasm of auditory tube, middle ear, and mastoid air cells"
+1602,Mal neo maxillary sinus,Malignant neoplasm of maxillary sinus
+1603,Mal neo ethmoidal sinus,Malignant neoplasm of ethmoidal sinus
+1604,Malig neo frontal sinus,Malignant neoplasm of frontal sinus
+1605,Mal neo sphenoid sinus,Malignant neoplasm of sphenoidal sinus
+1608,Mal neo access sinus NEC,Malignant neoplasm of other accessory sinuses
+1609,Mal neo access sinus NOS,"Malignant neoplasm of accessory sinus, unspecified"
+1610,Malignant neo glottis,Malignant neoplasm of glottis
+1611,Malig neo supraglottis,Malignant neoplasm of supraglottis
+1612,Malig neo subglottis,Malignant neoplasm of subglottis
+1613,Mal neo cartilage larynx,Malignant neoplasm of laryngeal cartilages
+1618,Malignant neo larynx NEC,Malignant neoplasm of other specified sites of larynx
+1619,Malignant neo larynx NOS,"Malignant neoplasm of larynx, unspecified"
+1620,Malignant neo trachea,Malignant neoplasm of trachea
+1622,Malig neo main bronchus,Malignant neoplasm of main bronchus
+1623,Mal neo upper lobe lung,"Malignant neoplasm of upper lobe, bronchus or lung"
+1624,Mal neo middle lobe lung,"Malignant neoplasm of middle lobe, bronchus or lung"
+1625,Mal neo lower lobe lung,"Malignant neoplasm of lower lobe, bronchus or lung"
+1628,Mal neo bronch/lung NEC,Malignant neoplasm of other parts of bronchus or lung
+1629,Mal neo bronch/lung NOS,"Malignant neoplasm of bronchus and lung, unspecified"
+1630,Mal neo parietal pleura,Malignant neoplasm of parietal pleura
+1631,Mal neo visceral pleura,Malignant neoplasm of visceral pleura
+1638,Malig neopl pleura NEC,Malignant neoplasm of other specified sites of pleura
+1639,Malig neopl pleura NOS,"Malignant neoplasm of pleura, unspecified"
+1640,Malignant neopl thymus,Malignant neoplasm of thymus
+1641,Malignant neopl heart,Malignant neoplasm of heart
+1642,Mal neo ant mediastinum,Malignant neoplasm of anterior mediastinum
+1643,Mal neo post mediastinum,Malignant neoplasm of posterior mediastinum
+1648,Mal neo mediastinum NEC,Malignant neoplasm of other parts of mediastinum
+1649,Mal neo mediastinum NOS,"Malignant neoplasm of mediastinum, part unspecified"
+1650,Mal neo upper resp NOS,"Malignant neoplasm of upper respiratory tract, part unspecified"
+1658,Mal neo thorax/resp NEC,Malignant neoplasm of other sites within the respiratory system and intrathoracic organs
+1659,Mal neo resp system NOS,Malignant neoplasm of ill-defined sites within the respiratory system
+1700,Mal neo skull/face bone,"Malignant neoplasm of bones of skull and face, except mandible"
+1701,Malignant neo mandible,Malignant neoplasm of mandible
+1702,Malig neo vertebrae,"Malignant neoplasm of vertebral column, excluding sacrum and coccyx"
+1703,Mal neo ribs/stern/clav,"Malignant neoplasm of ribs, sternum, and clavicle"
+1704,Mal neo long bones arm,Malignant neoplasm of scapula and long bones of upper limb
+1705,Mal neo bones wrist/hand,Malignant neoplasm of short bones of upper limb
+1706,Mal neo pelvic girdle,"Malignant neoplasm of pelvic bones, sacrum, and coccyx"
+1707,Mal neo long bones leg,Malignant neoplasm of long bones of lower limb
+1708,Mal neo bones ankle/foot,Malignant neoplasm of short bones of lower limb
+1709,Malig neopl bone NOS,"Malignant neoplasm of bone and articular cartilage, site unspecified"
+1710,Mal neo soft tissue head,"Malignant neoplasm of connective and other soft tissue of head, face, and neck"
+20076,Large cell lymph pelvic,"Large cell lymphoma, intrapelvic lymph nodes"
+1400,Mal neo upper vermilion,"Malignant neoplasm of upper lip, vermilion border"
+1401,Mal neo lower vermilion,"Malignant neoplasm of lower lip, vermilion border"
+1403,"Mal neo upper lip, inner","Malignant neoplasm of upper lip, inner aspect"
+1404,"Mal neo lower lip, inner","Malignant neoplasm of lower lip, inner aspect"
+1405,"Mal neo lip, inner NOS","Malignant neoplasm of lip, unspecified, inner aspect"
+1406,"Mal neo lip, commissure",Malignant neoplasm of commissure of lip
+1408,Mal neo lip NEC,Malignant neoplasm of other sites of lip
+1409,Mal neo lip/vermil NOS,"Malignant neoplasm of lip, unspecified, vermilion border"
+1410,Mal neo tongue base,Malignant neoplasm of base of tongue
+1411,Mal neo dorsal tongue,Malignant neoplasm of dorsal surface of tongue
+1412,Mal neo tip/lat tongue,Malignant neoplasm of tip and lateral border of tongue
+1413,Mal neo ventral tongue,Malignant neoplasm of ventral surface of tongue
+1414,Mal neo ant 2/3 tongue,"Malignant neoplasm of anterior two-thirds of tongue, part unspecified"
+1415,Mal neo tongue junction,Malignant neoplasm of junctional zone of tongue
+1416,Mal neo lingual tonsil,Malignant neoplasm of lingual tonsil
+1418,Malig neo tongue NEC,Malignant neoplasm of other sites of tongue
+20221,Sezary's disease head,"Sezary's disease, lymph nodes of head, face, and neck"
+20222,Sezary's disease thorax,"Sezary's disease, intrathoracic lymph nodes"
+20223,Sezary's disease abdom,"Sezary's disease, intra-abdominal lymph nodes"
+20224,Sezary's disease axilla,"Sezary's disease, lymph nodes of axilla and upper limb"
+20225,Sezary's disease inguin,"Sezary's disease, lymph nodes of inguinal region and lower limb"
+20226,Sezary's disease pelvic,"Sezary's disease, intrapelvic lymph nodes"
+20227,Sezary's disease spleen,"Sezary's disease, spleen"
+20228,Sezary's disease mult,"Sezary's disease, lymph nodes of multiple sites"
+20230,Mlg hist unsp xtrndl org,"Malignant histiocytosis, unspecified site, extranodal and solid organ sites"
+20231,Mal histiocytosis head,"Malignant histiocytosis, lymph nodes of head, face, and neck"
+20232,Mal histiocytosis thorax,"Malignant histiocytosis, intrathoracic lymph nodes"
+20233,Mal histiocytosis abdom,"Malignant histiocytosis, intra-abdominal lymph nodes"
+20234,Mal histiocytosis axilla,"Malignant histiocytosis, lymph nodes of axilla and upper limb"
+20235,Mal histiocytosis inguin,"Malignant histiocytosis, lymph nodes of inguinal region and lower limb"
+20236,Mal histiocytosis pelvic,"Malignant histiocytosis, intrapelvic lymph nodes"
+20237,Mal histiocytosis spleen,"Malignant histiocytosis, spleen"
+20238,Mal histiocytosis mult,"Malignant histiocytosis, lymph nodes of multiple sites"
+20240,Lk rtctl unsp xtrndl org,"Leukemic reticuloendotheliosis, unspecified site, extranodal and solid organ sites"
+20241,Hairy-cell leukem head,"Leukemic reticuloendotheliosis, lymph nodes of head, face, and neck"
+20242,Hairy-cell leukem thorax,"Leukemic reticuloendotheliosis, intrathoracic lymph nodes"
+20243,Hairy-cell leukem abdom,"Leukemic reticuloendotheliosis, intra-abdominal lymph nodes"
+20244,Hairy-cell leukem axilla,"Leukemic reticuloendotheliosis, lymph nodes of axilla and upper arm"
+20245,Hairy-cell leukem inguin,"Leukemic reticuloendotheliosis, lymph nodes of inguinal region and lower limb"
+20246,Hairy-cell leukem pelvic,"Leukemic reticuloendotheliosis, intrapelvic lymph nodes"
+20247,Hairy-cell leukem spleen,"Leukemic reticuloendotheliosis, spleen"
+20248,Hairy-cell leukem mult,"Leukemic reticuloendotheliosis, lymph nodes of multiple sites"
+20250,Ltr-siwe unsp xtrndl org,"Letterer-siwe disease, unspecified site, extranodal and solid organ sites"
+1419,Malig neo tongue NOS,"Malignant neoplasm of tongue, unspecified"
+1420,Malig neo parotid,Malignant neoplasm of parotid gland
+1421,Malig neo submandibular,Malignant neoplasm of submandibular gland
+1422,Malig neo sublingual,Malignant neoplasm of sublingual gland
+1428,Mal neo maj salivary NEC,Malignant neoplasm of other major salivary glands
+1429,Mal neo salivary NOS,"Malignant neoplasm of salivary gland, unspecified"
+1430,Malig neo upper gum,Malignant neoplasm of upper gum
+1431,Malig neo lower gum,Malignant neoplasm of lower gum
+1438,Malig neo gum NEC,Malignant neoplasm of other sites of gum
+1439,Malig neo gum NOS,"Malignant neoplasm of gum, unspecified"
+1440,Mal neo ant floor mouth,Malignant neoplasm of anterior portion of floor of mouth
+1441,Mal neo lat floor mouth,Malignant neoplasm of lateral portion of floor of mouth
+1448,Mal neo mouth floor NEC,Malignant neoplasm of other sites of floor of mouth
+1449,Mal neo mouth floor NOS,"Malignant neoplasm of floor of mouth, part unspecified"
+1450,Mal neo cheek mucosa,Malignant neoplasm of cheek mucosa
+1451,Mal neo mouth vestibule,Malignant neoplasm of vestibule of mouth
+1452,Malig neo hard palate,Malignant neoplasm of hard palate
+1453,Malig neo soft palate,Malignant neoplasm of soft palate
+1454,Malignant neoplasm uvula,Malignant neoplasm of uvula
+1455,Malignant neo palate NOS,"Malignant neoplasm of palate, unspecified"
+1456,Malig neo retromolar,Malignant neoplasm of retromolar area
+1458,Malig neoplasm mouth NEC,Malignant neoplasm of other specified parts of mouth
+1459,Malig neoplasm mouth NOS,"Malignant neoplasm of mouth, unspecified"
+1460,Malignant neopl tonsil,Malignant neoplasm of tonsil
+1461,Mal neo tonsillar fossa,Malignant neoplasm of tonsillar fossa
+1462,Mal neo tonsil pillars,Malignant neoplasm of tonsillar pillars (anterior) (posterior)
+1463,Malign neopl vallecula,Malignant neoplasm of vallecula epiglottica
+1464,Mal neo ant epiglottis,Malignant neoplasm of anterior aspect of epiglottis
+1465,Mal neo epiglottis junct,Malignant neoplasm of junctional region of oropharynx
+1466,Mal neo lat oropharynx,Malignant neoplasm of lateral wall of oropharynx
+1467,Mal neo post oropharynx,Malignant neoplasm of posterior wall of oropharynx
+1468,Mal neo oropharynx NEC,Malignant neoplasm of other specified sites of oropharynx
+1469,Malig neo oropharynx NOS,"Malignant neoplasm of oropharynx, unspecified site"
+1470,Mal neo super nasopharyn,Malignant neoplasm of superior wall of nasopharynx
+1471,Mal neo post nasopharynx,Malignant neoplasm of posterior wall of nasopharynx
+1472,Mal neo lat nasopharynx,Malignant neoplasm of lateral wall of nasopharynx
+1473,Mal neo ant nasopharynx,Malignant neoplasm of anterior wall of nasopharynx
+1478,Mal neo nasopharynx NEC,Malignant neoplasm of other specified sites of nasopharynx
+1479,Mal neo nasopharynx NOS,"Malignant neoplasm of nasopharynx, unspecified site"
+1480,Mal neo postcricoid,Malignant neoplasm of postcricoid region of hypopharynx
+1481,Mal neo pyriform sinus,Malignant neoplasm of pyriform sinus
+1482,Mal neo aryepiglott fold,"Malignant neoplasm of aryepiglottic fold, hypopharyngeal aspect"
+1483,Mal neo post hypopharynx,Malignant neoplasm of posterior hypopharyngeal wall
+1488,Mal neo hypopharynx NEC,Malignant neoplasm of other specified sites of hypopharynx
+1489,Mal neo hypopharynx NOS,"Malignant neoplasm of hypopharynx, unspecified site"
+1490,Mal neo pharynx NOS,"Malignant neoplasm of pharynx, unspecified"
+1491,Mal neo waldeyer's ring,Malignant neoplasm of waldeyer's ring
+1498,Mal neo oral/pharynx NEC,Malignant neoplasm of other sites within the lip and oral cavity
+1499,Mal neo orophryn ill-def,Malignant neoplasm of ill-defined sites within the lip and oral cavity
+1500,Mal neo cervical esophag,Malignant neoplasm of cervical esophagus
+1501,Mal neo thoracic esophag,Malignant neoplasm of thoracic esophagus
+1502,Mal neo abdomin esophag,Malignant neoplasm of abdominal esophagus
+1503,Mal neo upper 3rd esoph,Malignant neoplasm of upper third of esophagus
+1504,Mal neo middle 3rd esoph,Malignant neoplasm of middle third of esophagus
+1505,Mal neo lower 3rd esoph,Malignant neoplasm of lower third of esophagus
+1508,Mal neo esophagus NEC,Malignant neoplasm of other specified part of esophagus
+1509,Mal neo esophagus NOS,"Malignant neoplasm of esophagus, unspecified site"
+1510,Mal neo stomach cardia,Malignant neoplasm of cardia
+1511,Malignant neo pylorus,Malignant neoplasm of pylorus
+1512,Mal neo pyloric antrum,Malignant neoplasm of pyloric antrum
+1513,Mal neo stomach fundus,Malignant neoplasm of fundus of stomach
+1514,Mal neo stomach body,Malignant neoplasm of body of stomach
+1515,Mal neo stom lesser curv,"Malignant neoplasm of lesser curvature of stomach, unspecified"
+1516,Mal neo stom great curv,"Malignant neoplasm of greater curvature of stomach, unspecified"
+1518,Malig neopl stomach NEC,Malignant neoplasm of other specified sites of stomach
+1519,Malig neopl stomach NOS,"Malignant neoplasm of stomach, unspecified site"
+1520,Malignant neopl duodenum,Malignant neoplasm of duodenum
+1521,Malignant neopl jejunum,Malignant neoplasm of jejunum
+1522,Malignant neoplasm ileum,Malignant neoplasm of ileum
+1523,Mal neo meckel's divert,Malignant neoplasm of Meckel's diverticulum
+1528,Mal neo small bowel NEC,Malignant neoplasm of other specified sites of small intestine
+1529,Mal neo small bowel NOS,"Malignant neoplasm of small intestine, unspecified site"
+1530,Mal neo hepatic flexure,Malignant neoplasm of hepatic flexure
+1531,Mal neo transverse colon,Malignant neoplasm of transverse colon
+1532,Mal neo descend colon,Malignant neoplasm of descending colon
+1533,Mal neo sigmoid colon,Malignant neoplasm of sigmoid colon
+1534,Malignant neoplasm cecum,Malignant neoplasm of cecum
+1535,Malignant neo appendix,Malignant neoplasm of appendix vermiformis
+1536,Malig neo ascend colon,Malignant neoplasm of ascending colon
+1537,Mal neo splenic flexure,Malignant neoplasm of splenic flexure
+1538,Malignant neo colon NEC,Malignant neoplasm of other specified sites of large intestine
+1539,Malignant neo colon NOS,"Malignant neoplasm of colon, unspecified site"
+1540,Mal neo rectosigmoid jct,Malignant neoplasm of rectosigmoid junction
+1541,Malignant neopl rectum,Malignant neoplasm of rectum
+1542,Malig neopl anal canal,Malignant neoplasm of anal canal
+1543,Malignant neo anus NOS,"Malignant neoplasm of anus, unspecified site"
+1548,Mal neo rectum/anus NEC,"Malignant neoplasm of other sites of rectum, rectosigmoid junction, and anus"
+1550,"Mal neo liver, primary","Malignant neoplasm of liver, primary"
+1551,Mal neo intrahepat ducts,Malignant neoplasm of intrahepatic bile ducts
+1552,Malignant neo liver NOS,"Malignant neoplasm of liver, not specified as primary or secondary"
+1560,Malig neo gallbladder,Malignant neoplasm of gallbladder
+1561,Mal neo extrahepat ducts,Malignant neoplasm of extrahepatic bile ducts
+1562,Mal neo ampulla of vater,Malignant neoplasm of ampulla of vater
+1568,Malig neo biliary NEC,Malignant neoplasm of other specified sites of gallbladder and extrahepatic bile ducts
+1569,Malig neo biliary NOS,"Malignant neoplasm of biliary tract, part unspecified site"
+1570,Mal neo pancreas head,Malignant neoplasm of head of pancreas
+1571,Mal neo pancreas body,Malignant neoplasm of body of pancreas
+1572,Mal neo pancreas tail,Malignant neoplasm of tail of pancreas
+1573,Mal neo pancreatic duct,Malignant neoplasm of pancreatic duct
+1574,Mal neo islet langerhans,Malignant neoplasm of islets of langerhans
+1578,Malig neo pancreas NEC,Malignant neoplasm of other specified sites of pancreas
+1579,Malig neo pancreas NOS,"Malignant neoplasm of pancreas, part unspecified"
+1580,Mal neo retroperitoneum,Malignant neoplasm of retroperitoneum
+1588,Mal neo peritoneum NEC,Malignant neoplasm of specified parts of peritoneum
+1589,Mal neo peritoneum NOS,"Malignant neoplasm of peritoneum, unspecified"
+20080,Oth varn unsp xtrndl org,"Other named variants of lymphosarcoma and reticulosarcoma, unspecified site, extranodal and solid organ sites"
+20081,Mixed lymphosarc head,"Other named variants of lymphosarcoma and reticulosarcoma, lymph nodes of head, face, and neck"
+20082,Mixed lymphosarc thorax,"Other named variants of lymphosarcoma and reticulosarcoma,intrathoracic lymph nodes"
+20083,Mixed lymphosarc abdom,"Other named variants of lymphosarcoma and reticulosarcoma, intra-abdominal lymph nodes"
+20084,Mixed lymphosarc axilla,"Other named variants of lymphosarcoma and reticulosarcoma, lymph nodes of axilla and upper limb"
+20085,Mixed lymphosarc inguin,"Other named variants of lymphosarcoma and reticulosarcoma, lymph nodes of inguinal region and lower limb"
+20086,Mixed lymphosarc pelvic,"Other named variants of lymphosarcoma and reticulosarcoma, intrapelvic lymph nodes"
+20087,Mixed lymphosarc spleen,"Other named variants of lymphosarcoma and reticulosarcoma, spleen"
+20088,Mixed lymphosarc mult,"Other named variants of lymphosarcoma and reticulosarcoma, lymph nodes of multiple sites"
+20100,Hdgk prg unsp xtrndl org,"Hodgkin's paragranuloma, unspecified site, extranodal and solid organ sites"
+20101,Hodgkins paragran head,"Hodgkin's paragranuloma, lymph nodes of head, face, and neck"
+20102,Hodgkins paragran thorax,"Hodgkin's paragranuloma, intrathoracic lymph nodes"
+20103,Hodgkins paragran abdom,"Hodgkin's paragranuloma, intra-abdominal lymph nodes"
+20104,Hodgkins paragran axilla,"Hodgkin's paragranuloma, lymph nodes of axilla and upper limb"
+20105,Hodgkins paragran inguin,"Hodgkin's paragranuloma, lymph nodes of inguinal region and lower limb"
+20106,Hodgkins paragran pelvic,"Hodgkin's paragranuloma, intrapelvic lymph nodes"
+20107,Hodgkins paragran spleen,"Hodgkin's paragranuloma, spleen"
+20108,Hodgkins paragran mult,"Hodgkin's paragranuloma, lymph nodes of multiple sites"
+20110,Hdgk grn unsp xtrndl org,"Hodgkin's granuloma, unspecified site, extranodal and solid organ sites"
+20111,Hodgkins granulom head,"Hodgkin's granuloma, lymph nodes of head, face, and neck"
+20112,Hodgkins granulom thorax,"Hodgkin's granuloma, intrathoracic lymph nodes"
+20113,Hodgkins granulom abdom,"Hodgkin's granuloma, intra-abdominal lymph nodes"
+20114,Hodgkins granulom axilla,"Hodgkin's granuloma, lymph nodes of axilla and upper limb"
+20115,Hodgkins granulom inguin,"Hodgkin's granuloma, lymph nodes of inguinal region and lower limb"
+20116,Hodgkins granulom pelvic,"Hodgkin's granuloma, intrapelvic lymph nodes"
+20117,Hodgkins granulom spleen,"Hodgkin's granuloma, spleen"
+20118,Hodgkins granulom mult,"Hodgkin's granuloma, lymph nodes of multiple sites"
+20120,Hdgk src unsp xtrndl org,"Hodgkin's sarcoma, unspecified site, extranodal and solid organ sites"
+20121,Hodgkins sarcoma head,"Hodgkin's sarcoma, lymph nodes of head, face, and neck"
+20122,Hodgkins sarcoma thorax,"Hodgkin's sarcoma, intrathoracic lymph nodes"
+20123,Hodgkins sarcoma abdom,"Hodgkin's sarcoma, intra-abdominal lymph nodes"
+20124,Hodgkins sarcoma axilla,"Hodgkin's sarcoma, lymph nodes of axilla and upper limb"
+20125,Hodgkins sarcoma inguin,"Hodgkin's sarcoma, lymph nodes of inguinal region and lower limb"
+20126,Hodgkins sarcoma pelvic,"Hodgkin's sarcoma, intrapelvic lymph nodes"
+20127,Hodgkins sarcoma spleen,"Hodgkin's sarcoma, spleen"
+20128,Hodgkins sarcoma mult,"Hodgkin's sarcoma, lymph nodes of multiple sites"
+20140,Lym-hst unsp xtrndl orgn,"Hodgkin's disease, lymphocytic-histiocytic predominance, unspecified site, extranodal and solid organ sites"
+20141,Hodg lymph-histio head,"Hodgkin's disease, lymphocytic-histiocytic predominance, lymph nodes of head, face, and neck"
+20142,Hodg lymph-histio thorax,"Hodgkin's disease, lymphocytic-histiocytic predominance, intrathoracic lymph nodes"
+20143,Hodg lymph-histio abdom,"Hodgkin's disease, lymphocytic-histiocytic predominance, intra-abdominal lymph nodes"
+20144,Hodg lymph-histio axilla,"Hodgkin's disease, lymphocytic-histiocytic predominance, lymph nodes of axilla and upper limb"
+20145,Hodg lymph-histio inguin,"Hodgkin's disease, lymphocytic-histiocytic predominance, lymph nodes of inguinal region and lower limb"
+20146,Hodg lymph-histio pelvic,"Hodgkin's disease, lymphocytic-histiocytic predominance, intrapelvic lymph nodes"
+20147,Hodg lymph-histio spleen,"Hodgkin's disease, lymphocytic-histiocytic predominance, spleen"
+20148,Hodg lymph-histio mult,"Hodgkin's disease, lymphocytic-histiocytic predominance, lymph nodes of multiple sites"
+20150,Ndr sclr unsp xtrndl org,"Hodgkin's disease, nodular sclerosis, unspecified site, extranodal and solid organ sites"
+20151,Hodg nodul sclero head,"Hodgkin's disease, nodular sclerosis, lymph nodes of head, face, and neck"
+20152,Hodg nodul sclero thorax,"Hodgkin's disease, nodular sclerosis, intrathoracic lymph nodes"
+20153,Hodg nodul sclero abdom,"Hodgkin's disease, nodular sclerosis, intra-abdominal lymph nodes"
+20154,Hodg nodul sclero axilla,"Hodgkin's disease, nodular sclerosis, lymph nodes of axilla and upper limb"
+20155,Hodg nodul sclero inguin,"Hodgkin's disease, nodular sclerosis, lymph nodes of inguinal region and lower limb"
+20156,Hodg nodul sclero pelvic,"Hodgkin's disease, nodular sclerosis, intrapelvic lymph nodes"
+20157,Hodg nodul sclero spleen,"Hodgkin's disease, nodular sclerosis, spleen"
+20158,Hodg nodul sclero mult,"Hodgkin's disease, nodular sclerosis, lymph nodes of multiple sites"
+20160,Mxd celr unsp xtrndl org,"Hodgkin's disease, mixed cellularity, unspecified site, extranodal and solid organ sites"
+20161,Hodgkins mix cell head,"Hodgkin's disease, mixed cellularity, lymph nodes of head, face, and neck"
+20162,Hodgkins mix cell thorax,"Hodgkin's disease, mixed cellularity, intrathoracic lymph nodes"
+20163,Hodgkins mix cell abdom,"Hodgkin's disease, mixed cellularity, intra-abdominal lymph nodes"
+20164,Hodgkins mix cell axilla,"Hodgkin's disease, mixed cellularity, lymph nodes of axilla and upper limb"
+20165,Hodgkins mix cell inguin,"Hodgkin's disease, mixed cellularity, lymph nodes of inguinal region and lower limb"
+20166,Hodgkins mix cell pelvic,"Hodgkin's disease, mixed cellularity, intrapelvic lymph nodes"
+20167,Hodgkins mix cell spleen,"Hodgkin's disease, mixed cellularity, spleen"
+20168,Hodgkins mix cell mult,"Hodgkin's disease, mixed cellularity, lymph nodes of multiple sites"
+20170,Lym dplt unsp xtrndl org,"Hodgkin's disease, lymphocytic depletion, unspecified site, extranodal and solid organ sites"
+20171,Hodg lymph deplet head,"Hodgkin's disease, lymphocytic depletion, lymph nodes of head, face, and neck"
+20172,Hodg lymph deplet thorax,"Hodgkin's disease, lymphocytic depletion, intrathoracic lymph nodes"
+20173,Hodg lymph deplet abdom,"Hodgkin's disease, lymphocytic depletion, intra-abdominal lymph nodes"
+20174,Hodg lymph deplet axilla,"Hodgkin's disease, lymphocytic depletion, lymph nodes of axilla and upper limb"
+20175,Hodg lymph deplet inguin,"Hodgkin's disease, lymphocytic depletion, lymph nodes of inguinal region and lower limb"
+20176,Hodg lymph deplet pelvic,"Hodgkin's disease, lymphocytic depletion, intrapelvic lymph nodes"
+20177,Hodg lymph deplet spleen,"Hodgkin's disease, lymphocytic depletion, spleen"
+20178,Hodg lymph deplet mult,"Hodgkin's disease, lymphocytic depletion, lymph nodes of multiple sites"
+20190,Hdgk dis unsp xtrndl org,"Hodgkin's disease, unspecified type, unspecified site, extranodal and solid organ sites"
+20191,Hodgkins dis NOS head,"Hodgkin's disease, unspecified type, lymph nodes of head, face, and neck"
+20192,Hodgkins dis NOS thorax,"Hodgkin's disease, unspecified type, intrathoracic lymph nodes"
+20193,Hodgkins dis NOS abdom,"Hodgkin's disease, unspecified type, intra-abdominal lymph nodes"
+20194,Hodgkins dis NOS axilla,"Hodgkin's disease, unspecified type, lymph nodes of axilla and upper limb"
+20195,Hodgkins dis NOS inguin,"Hodgkin's disease, unspecified type, lymph nodes of inguinal region and lower limb"
+20196,Hodgkins dis NOS pelvic,"Hodgkin's disease, unspecified type, intrapelvic lymph nodes"
+20197,Hodgkins dis NOS spleen,"Hodgkin's disease, unspecified type, spleen"
+20198,Hodgkins dis NOS mult,"Hodgkin's disease, unspecified type, lymph nodes of multiple sites"
+20200,Ndlr lym unsp xtrndl org,"Nodular lymphoma, unspecified site, extranodal and solid organ sites"
+20201,Nodular lymphoma head,"Nodular lymphoma, lymph nodes of head, face, and neck"
+20202,Nodular lymphoma thorax,"Nodular lymphoma, intrathoracic lymph nodes"
+20203,Nodular lymphoma abdom,"Nodular lymphoma, intra-abdominal lymph nodes"
+20204,Nodular lymphoma axilla,"Nodular lymphoma, lymph nodes of axilla and upper limb"
+20205,Nodular lymphoma inguin,"Nodular lymphoma, lymph nodes of inguinal region and lower limb"
+20206,Nodular lymphoma pelvic,"Nodular lymphoma, intrapelvic lymph nodes"
+20207,Nodular lymphoma spleen,"Nodular lymphoma, spleen"
+20208,Nodular lymphoma mult,"Nodular lymphoma, lymph nodes of multiple sites"
+20210,Mycs fng unsp xtrndl org,"Mycosis fungoides, unspecified site, extranodal and solid organ sites"
+20211,Mycosis fungoides head,"Mycosis fungoides, lymph nodes of head, face, and neck"
+20212,Mycosis fungoides thorax,"Mycosis fungoides, intrathoracic lymph nodes"
+20213,Mycosis fungoides abdom,"Mycosis fungoides, intra-abdominal lymph nodes"
+20214,Mycosis fungoides axilla,"Mycosis fungoides, lymph nodes of axilla and upper limb"
+20215,Mycosis fungoides inguin,"Mycosis fungoides, lymph nodes of inguinal region and lower limb"
+20216,Mycosis fungoides pelvic,"Mycosis fungoides, intrapelvic lymph nodes"
+20217,Mycosis fungoides spleen,"Mycosis fungoides, spleen"
+20218,Mycosis fungoides mult,"Mycosis fungoides, lymph nodes of multiple sites"
+20220,Szry dis unsp xtrndl org,"Sezary's disease, unspecified site, extranodal and solid organ sites"
+2355,Unc behav neo GI NEC,Neoplasm of uncertain behavior of other and unspecified digestive organs
+2356,Unc behav neo larynx,Neoplasm of uncertain behavior of larynx
+2357,Unc behav neo lung,"Neoplasm of uncertain behavior of trachea, bronchus, and lung"
+2358,Unc behav neo pleura,"Neoplasm of uncertain behavior of pleura, thymus, and mediastinum"
+2359,Unc behav neo resp NEC,Neoplasm of uncertain behavior of other and unspecified respiratory organs
+2360,Uncert behav neo uterus,Neoplasm of uncertain behavior of uterus
+2361,Unc behav neo placenta,Neoplasm of uncertain behavior of placenta
+2362,Unc behav neo ovary,Neoplasm of uncertain behavior of ovary
+2363,Unc behav neo female NEC,Neoplasm of uncertain behavior of other and unspecified female genital organs
+2364,Unc behav neo testis,Neoplasm of uncertain behavior of testis
+2365,Unc behav neo prostate,Neoplasm of uncertain behavior of prostate
+2366,Unc behav neo male NEC,Neoplasm of uncertain behavior of other and unspecified male genital organs
+2367,Unc behav neo bladder,Neoplasm of uncertain behavior of bladder
+23690,Unc behav neo urinar NOS,"Neoplasm of uncertain behavior of urinary organ, unspecified"
+23691,Unc behav neo kidney,Neoplasm of uncertain behavior of kidney and ureter
+23699,Unc behav neo urinar NEC,Neoplasm of uncertain behavior of other and unspecified urinary organs
+2370,Unc behav neo pituitary,Neoplasm of uncertain behavior of pituitary gland and craniopharyngeal duct
+2371,Unc behav neo pineal,Neoplasm of uncertain behavior of pineal gland
+2372,Unc behav neo adrenal,Neoplasm of uncertain behavior of adrenal gland
+2373,Unc behav neo paragang,Neoplasm of uncertain behavior of paraganglia
+2374,Uncer neo endocrine NEC,Neoplasm of uncertain behavior of other and unspecified endocrine glands
+2375,Unc beh neo brain/spinal,Neoplasm of uncertain behavior of brain and spinal cord
+2376,Unc behav neo meninges,Neoplasm of uncertain behavior of meninges
+23770,Neurofibromatosis NOS,"Neurofibromatosis, unspecified"
+23771,Neurofibromatosis type I,"Neurofibromatosis, type 1 [von recklinghausen's disease]"
+23772,Neurofibromatosis typ II,"Neurofibromatosis, type 2 [acoustic neurofibromatosis]"
+23773,Schwannomatosis,Schwannomatosis
+23779,Neurofibromatosis NEC,Other neurofibromatosis
+2379,Unc beh neo nerv sys NEC,Neoplasm of uncertain behavior of other and unspecified parts of nervous system
+2380,Unc behav neo bone,Neoplasm of uncertain behavior of bone and articular cartilage
+2381,Unc behav neo soft tissu,Neoplasm of uncertain behavior of connective and other soft tissue
+2382,Unc behav neo skin,Neoplasm of uncertain behavior of skin
+2383,Unc behav neo breast,Neoplasm of uncertain behavior of breast
+2384,Polycythemia vera,Polycythemia vera
+2385,Mastocytoma NOS,Neoplasm of uncertain behavior of histiocytic and mast cells
+2386,Plasmacytoma NOS,Neoplasm of uncertain behavior of plasma cells
+23871,Essntial thrombocythemia,Essential thrombocythemia
+23872,Low grde myelody syn les,Low grade myelodysplastic syndrome lesions
+23873,Hi grde myelodys syn les,High grade myelodysplastic syndrome lesions
+23874,Myelodyspls syn w 5q del,Myelodysplastic syndrome with 5q deletion
+23875,Myelodysplastic synd NOS,"Myelodysplastic syndrome, unspecified"
+23876,Myelofi w myelo metaplas,Myelofibrosis with myeloid metaplasia
+23877,Post tp lymphprolif dis,Post-transplant lymphoproliferative disorder (PTLD)
+23879,Lymph/hematpoitc tis NEC,Other lymphatic and hematopoietic tissues
+2388,Uncert behavior neo NEC,Neoplasm of uncertain behavior of other specified sites
+2389,Uncert behavior neo NOS,"Neoplasm of uncertain behavior, site unspecified"
+20251,Letterer-siwe dis head,"Letterer-siwe disease, lymph nodes of head, face, and neck"
+20252,Letterer-siwe dis thorax,"Letterer-siwe disease, intrathoracic lymph nodes"
+20253,Letterer-siwe dis abdom,"Letterer-siwe disease, intra-abdominal lymph nodes"
+20254,Letterer-siwe dis axilla,"Letterer-siwe disease, lymph nodes of axilla and upper limb"
+20255,Letterer-siwe dis inguin,"Letterer-siwe disease, lymph nodes of inguinal region and lower limb"
+20256,Letterer-siwe dis pelvic,"Letterer-siwe disease, intrapelvic lymph nodes"
+20257,Letterer-siwe dis spleen,"Letterer-siwe disease, spleen"
+20258,Letterer-siwe dis mult,"Letterer-siwe disease, lymph nodes of multiple sites"
+20260,Mlg mast unsp xtrndl org,"Malignant mast cell tumors, unspecified site, extranodal and solid organ sites"
+20261,Mal mastocytosis head,"Malignant mast cell tumors, lymph nodes of head, face, and neck"
+20262,Mal mastocytosis thorax,"Malignant mast cell tumors, intrathoracic lymph nodes"
+20263,Mal mastocytosis abdom,"Malignant mast cell tumors, intra-abdominal lymph nodes"
+20264,Mal mastocytosis axilla,"Malignant mast cell tumors, lymph nodes of axilla and upper limb"
+20265,Mal mastocytosis inguin,"Malignant mast cell tumors, lymph nodes of inguinal region and lower limb"
+20266,Mal mastocytosis pelvic,"Malignant mast cell tumors, intrapelvic lymph nodes"
+20267,Mal mastocytosis spleen,"Malignant mast cell tumors, spleen"
+20268,Mal mastocytosis mult,"Malignant mast cell tumors, lymph nodes of multiple sites"
+20270,Periph T cell lym xtrndl,"Peripheral T cell lymphoma, unspecified site, extranodal and solid organ sites"
+20271,Periph T cell lymph head,"Peripheral T cell lymphoma, lymph nodes of head, face, and neck"
+20272,Periph T cell lym thorax,"Peripheral T cell lymphoma, intrathoracic lymph nodes"
+20273,Periph T cell lym abdom,"Peripheral T cell lymphoma, intra-abdominal lymph nodes"
+20274,Periph T cell lym axilla,"Peripheral T cell lymphoma, lymph nodes of axilla and upper limb"
+20275,Periph T cell lym inguin,"Peripheral T cell lymphoma, lymph nodes of inguinal region and lower limb"
+20276,Periph T cell lym pelvic,"Peripheral T cell lymphoma, intrapelvic lymph nodes"
+20277,Periph T cell lym spleen,"Peripheral T cell lymphoma, spleen"
+20278,Periph T cell lym multip,"Peripheral T cell lymphoma, lymph nodes of multiple sites"
+20280,Oth lymp unsp xtrndl org,"Other malignant lymphomas, unspecified site, extranodal and solid organ sites"
+20281,Lymphomas NEC head,"Other malignant lymphomas, lymph nodes of head, face, and neck"
+20282,Lymphomas NEC thorax,"Other malignant lymphomas, intrathoracic lymph nodes"
+20283,Lymphomas NEC abdom,"Other malignant lymphomas, intra-abdominal lymph nodes"
+20284,Lymphomas NEC axilla,"Other malignant lymphomas, lymph nodes of axilla and upper limb"
+20285,Lymphomas NEC inguin,"Other malignant lymphomas, lymph nodes of inguinal region and lower limb"
+20286,Lymphomas NEC pelvic,"Other malignant lymphomas, intrapelvic lymph nodes"
+20287,Lymphomas NEC spleen,"Other malignant lymphomas, spleen"
+20288,Lymphomas NEC mult,"Other malignant lymphomas, lymph nodes of multiple sites"
+20290,Unsp lym unsp xtrndl org,"Other and unspecified malignant neoplasms of lymphoid and histiocytic tissue, unspecified site, extranodal and solid organ sites"
+20291,Lymphoid mal NEC head,"Other and unspecified malignant neoplasms of lymphoid and histiocytic tissue, lymph nodes of head, face, and neck"
+20292,Lymphoid mal NEC thorax,"Other and unspecified malignant neoplasms of lymphoid and histiocytic tissue, intrathoracic lymph nodes"
+20293,Lymphoid mal NEC abdom,"Other and unspecified malignant neoplasms of lymphoid and histiocytic tissue, intra-abdominal lymph nodes"
+20294,Lymphoid mal NEC axilla,"Other and unspecified malignant neoplasms of lymphoid and histiocytic tissue, lymph nodes of axilla and upper limb"
+20295,Lymphoid mal NEC inguin,"Other and unspecified malignant neoplasms of lymphoid and histiocytic tissue, lymph nodes of inguinal region and lower limb"
+20296,Lymphoid mal NEC pelvic,"Other and unspecified malignant neoplasms of lymphoid and histiocytic tissue, intrapelvic lymph nodes"
+20297,Lymphoid mal NEC spleen,"Other and unspecified malignant neoplasms of lymphoid and histiocytic tissue, spleen"
+20298,Lymphoid mal NEC mult,"Other and unspecified malignant neoplasms of lymphoid and histiocytic tissue, lymph nodes of multiple sites"
+20300,Mult mye w/o achv rmson,"Multiple myeloma, without mention of having achieved remission"
+20301,Mult myelm w remission,"Multiple myeloma, in remission"
+20302,Mult myeloma in relapse,"Multiple myeloma, in relapse"
+20310,Pls cl leu w/o achv rmsn,"Plasma cell leukemia, without mention of having achieved remission"
+20311,Plsm cell leuk w rmson,"Plasma cell leukemia, in remission"
+20312,Plsm cel leuk in relapse,"Plasma cell leukemia, in relapse"
+20380,Oth imno npl wo ach rmsn,"Other immunoproliferative neoplasms, without mention of having achieved remission"
+20381,Oth imnprfl npl w rmsn,"Other immunoproliferative neoplasms, in remission"
+20382,Oth imnprlf neo-relapse,"Other immunoproliferative neoplasms, in relapse"
+20400,Ac lym leuk wo achv rmsn,"Acute lymphoid leukemia, without mention of having achieved remission"
+20401,Act lym leuk w rmsion,"Acute lymphoid leukemia, in remission"
+20402,Act lymp leuk in relapse,"Acute lymphoid leukemia, in relapse"
+20410,Ch lym leuk wo achv rmsn,"Chronic lymphoid leukemia, without mention of having achieved remission"
+20411,Chr lym leuk w rmsion,"Chronic lymphoid leukemia, in remission"
+20412,Chr lymp leuk in relapse,"Chronic lymphoid leukemia, in relapse"
+20420,Sbac lym leu wo ach rmsn,"Subacute lymphoid leukemia, without mention of having achieved remission"
+20421,Sbac lym leuk w rmsion,"Subacute lymphoid leukemia, in remission"
+20422,Sbac lym leuk in relapse,"Subacute lymphoid leukemia, in relapse"
+20480,Oth lym leu wo achv rmsn,"Other lymphoid leukemia, without mention of having achieved remission"
+20481,Oth lym leuk w rmsion,"Other lymphoid leukemia, in remission"
+20482,Oth lym leuk in relapse,"Other lymphoid leukemia, in relapse"
+20490,Uns lym leu wo ach rmsn,"Unspecified lymphoid leukemia, without mention of having achieved remission"
+20491,Uns lym leuk w rmsion,"Unspecified lymphoid leukemia, in remission"
+20492,Lymp leuk NOS relapse,"Unspecified lymphoid leukemia, in relapse"
+20500,Ac myl leuk wo achv rmsn,"Acute myeloid leukemia, without mention of having achieved remission"
+20501,Act myl leuk w rmsion,"Acute myeloid leukemia, in remission"
+20502,Act myel leuk in relapse,"Acute myeloid leukemia, in relapse"
+20510,Ch myl leuk wo achv rmsn,"Chronic myeloid leukemia, without mention of having achieved remission"
+20511,Chr myl leuk w rmsion,"Chronic myeloid leukemia, in remission"
+20512,Chr myel leuk in relapse,"Chronic myeloid leukemia, in relapse"
+19882,Second malig neo genital,Secondary malignant neoplasm of genital organs
+19889,Secondary malig neo NEC,Secondary malignant neoplasm of other specified sites
+1990,Malig neo disseminated,Disseminated malignant neoplasm without specification of site
+1991,Malignant neoplasm NOS,Other malignant neoplasm without specification of site
+1992,Malig neopl-transp organ,Malignant neoplasm associated with transplant organ
+20000,Retclsrc unsp xtrndl org,"Reticulosarcoma, unspecified site, extranodal and solid organ sites"
+20001,Reticulosarcoma head,"Reticulosarcoma, lymph nodes of head, face, and neck"
+20002,Reticulosarcoma thorax,"Reticulosarcoma, intrathoracic lymph nodes"
+20003,Reticulosarcoma abdom,"Reticulosarcoma, intra-abdominal lymph nodes"
+20004,Reticulosarcoma axilla,"Reticulosarcoma, lymph nodes of axilla and upper limb"
+20005,Reticulosarcoma inguin,"Reticulosarcoma, lymph nodes of inguinal region and lower limb"
+20006,Reticulosarcoma pelvic,"Reticulosarcoma, intrapelvic lymph nodes"
+20007,Reticulosarcoma spleen,"Reticulosarcoma, spleen"
+20008,Reticulosarcoma mult,"Reticulosarcoma, lymph nodes of multiple sites"
+20010,Lymphsrc unsp xtrndl org,"Lymphosarcoma, unspecified site, extranodal and solid organ sites"
+20011,Lymphosarcoma head,"Lymphosarcoma, lymph nodes of head, face, and neck"
+20012,Lymphosarcoma thorax,"Lymphosarcoma, intrathoracic lymph nodes"
+20013,Lymphosarcoma abdom,"Lymphosarcoma, intra-abdominal lymph nodes"
+20014,Lymphosarcoma axilla,"Lymphosarcoma, lymph nodes of axilla and upper limb"
+20015,Lymphosarcoma inguin,"Lymphosarcoma, lymph nodes of inguinal region and lower limb"
+20016,Lymphosarcoma pelvic,"Lymphosarcoma, intrapelvic lymph nodes"
+20017,Lymphosarcoma spleen,"Lymphosarcoma, spleen"
+20018,Lymphosarcoma mult,"Lymphosarcoma, lymph nodes of multiple sites"
+20020,Brkt tmr unsp xtrndl org,"Burkitt's tumor or lymphoma, unspecified site, extranodal and solid organ sites"
+20021,Burkitt's tumor head,"Burkitt's tumor or lymphoma, lymph nodes of head, face, and neck"
+20022,Burkitt's tumor thorax,"Burkitt's tumor or lymphoma, intrathoracic lymph nodes"
+20023,Burkitt's tumor abdom,"Burkitt's tumor or lymphoma, intra-abdominal lymph nodes"
+20024,Burkitt's tumor axilla,"Burkitt's tumor or lymphoma, lymph nodes of axilla and upper limb"
+20025,Burkitt's tumor inguin,"Burkitt's tumor or lymphoma, lymph nodes of inguinal region and lower limb"
+20026,Burkitt's tumor pelvic,"Burkitt's tumor or lymphoma, intrapelvic lymph nodes"
+20027,Burkitt's tumor spleen,"Burkitt's tumor or lymphoma, spleen"
+20028,Burkitt's tumor mult,"Burkitt's tumor or lymphoma, lymph nodes of multiple sites"
+20030,Margnl zone lym xtrndl,"Marginal zone lymphoma, unspecified site, extranodal and solid organ sites"
+20031,Margin zone lym head,"Marginal zone lymphoma, lymph nodes of head, face, and neck"
+20032,Margin zone lym thorax,"Marginal zone lymphoma, intrathoracic lymph nodes"
+20033,Margin zone lym abdom,"Marginal zone lymphoma, intraabdominal lymph nodes"
+20034,Margin zone lym axilla,"Marginal zone lymphoma, lymph nodes of axilla and upper limb"
+20035,Margin zone lym inguin,"Marginal zone lymphoma, lymph nodes of inguinal region and lower limb"
+20036,Margin zone lym pelvic,"Marginal zone lymphoma, intrapelvic lymph nodes"
+20037,Margin zone lymph spleen,"Marginal zone lymphoma, spleen"
+20038,Margin zone lymph multip,"Marginal zone lymphoma, lymph nodes of multiple sites"
+20040,Mantle cell lym xtrrndl,"Mantle cell lymphoma, unspecified site, extranodal and solid organ sites"
+20041,Mantle cell lymph head,"Mantle cell lymphoma, lymph nodes of head, face, and neck"
+20042,Mantle cell lymph thorax,"Mantle cell lymphoma, intrathoracic lymph nodes"
+20043,Mantle cell lymph abdom,"Mantle cell lymphoma, intra-abdominal lymph nodes"
+20044,Mantle cell lymph axilla,"Mantle cell lymphoma, lymph nodes of axilla and upper limb"
+20045,Mantle cell lymph inguin,"Mantle cell lymphoma, lymph nodes of inguinal region and lower limb"
+20046,Mantle cell lymph pelvic,"Mantle cell lymphoma, intrapelvic lymph nodes"
+20047,Mantle cell lymph spleen,"Mantle cell lymphoma, spleen"
+20048,Mantle cell lymph multip,"Mantle cell lymphoma, lymph nodes of multiple sites"
+20050,Primary CNS lymph xtrndl,"Primary central nervous system lymphoma, unspecified site, extranodal and solid organ sites"
+20051,Primary CNS lymph head,"Primary central nervous system lymphoma, lymph nodes of head, face, and neck"
+20052,Primary CNS lymph thorax,"Primary central nervous system lymphoma, intrathoracic lymph nodes"
+20053,Primary CNS lymph abdom,"Primary central nervous system lymphoma, intra-abdominal lymph nodes"
+20054,Primary CNS lymph axilla,"Primary central nervous system lymphoma, lymph nodes of axilla and upper limb"
+20055,Primary CNS lym inguin,"Primary central nervous system lymphoma, lymph nodes of inguinal region and lower limb"
+20056,Primary CNS lymph pelvic,"Primary central nervous system lymphoma, intrapelvic lymph nodes"
+20057,Primary CNS lymph spleen,"Primary central nervous system lymphoma, spleen"
+20058,Primary CNS lymph multip,"Primary central nervous system lymphoma, lymph nodes of multiple sites"
+20060,Anaplastic lymph xtrndl,"Anaplastic large cell lymphoma, unspecified site, extranodal and solid organ sites"
+20061,Anaplastic lymph head,"Anaplastic large cell lymphoma, lymph nodes of head, face, and neck"
+20062,Anaplastic lymph thorax,"Anaplastic large cell lymphoma, intrathoracic lymph nodes"
+20063,Anaplastic lymph abdom,"Anaplastic large cell lymphoma, intra-abdominal lymph nodes"
+20064,Anaplastic lymph axilla,"Anaplastic large cell lymphoma, lymph nodes of axilla and upper limb"
+20065,Anaplastic lymph inguin,"Anaplastic large cell lymphoma, lymph nodes of inguinal region and lower limb"
+20066,Anaplastic lymph pelvic,"Anaplastic large cell lymphoma, intrapelvic lymph nodes"
+20067,Anaplastic lymph spleen,"Anaplastic large cell lymphoma, spleen"
+20068,Anaplastic lymph multip,"Anaplastic large cell lymphoma, lymph nodes of multiple sites"
+20070,Large cell lymph xtrndl,"Large cell lymphoma, unspecified site, extranodal and solid organ sites"
+20071,Large cell lymphoma head,"Large cell lymphoma, lymph nodes of head, face, and neck"
+20072,Large cell lymph thorax,"Large cell lymphoma, intrathoracic lymph nodes"
+20073,Large cell lymph abdom,"Large cell lymphoma, intra-abdominal lymph nodes"
+20074,Large cell lymph axilla,"Large cell lymphoma, lymph nodes of axilla and upper limb"
+20075,Large cell lymph inguin,"Large cell lymphoma, lymph nodes of inguinal region and lower limb"
+20520,Sbac myl leu wo ach rmsn,"Subacute myeloid leukemia, without mention of having achieved remission"
+20521,Sbac myl leuk w rmsion,"Subacute myeloid leukemia,in remission"
+20522,Sbac myl leuk in relapse,"Subacute myeloid leukemia, in relapse"
+20530,Myl sarcoma wo achv rmsn,"Myeloid sarcoma, without mention of having achieved remission"
+20531,Myl srcoma w rmsion,"Myeloid sarcoma, in remission"
+20532,Myel sarcoma in relapse,"Myeloid sarcoma, in relapse"
+20580,Oth my leuk wo achv rmsn,"Other myeloid leukemia, without mention of having achieved remission"
+20581,Oth myl leuk w rmsion,"Other myeloid leukemia, in remission"
+20582,Oth myel leuk in relapse,"Other myeloid leukemia, in relapse"
+20590,Uns my leu wo ach rmsn,"Unspecified myeloid leukemia, without mention of having achieved remission"
+20591,Uns myl leuk w rmsion,"Unspecified myeloid leukemia, in remission"
+20592,Myel leuk NOS in relapse,"Unspecified myeloid leukemia, in relapse"
+20600,Ac mono leu wo achv rmsn,"Acute monocytic leukemia, without mention of having achieved remission"
+20601,Act mono leuk w rmsion,"Acute monocytic leukemia,in remission"
+20602,Act mono leuk in relapse,"Acute monocytic leukemia, in relapse"
+20610,Ch mono leu wo achv rmsn,"Chronic monocytic leukemia, without mention of having achieved remission"
+20611,Chr mono leuk w rmsion,"Chronic monocytic leukemia, in remission"
+20612,Chr mono leuk in relapse,"Chronic monocytic leukemia, in relapse"
+20620,Sbac mno leu wo ach rmsn,"Subacute monocytic leukemia, without mention of having achieved remission"
+20621,Sbac mono leuk w rmsion,"Subacute monocytic leukemia, in remission"
+20622,Sbac mono leu in relapse,"Subacute monocytic leukemia, in relapse"
+20680,Ot mono leu wo achv rmsn,"Other monocytic leukemia, without mention of having achieved remission"
+20681,Oth mono leuk w rmsion,"Other monocytic leukemia, in remission"
+20682,Oth mono leuk in relapse,"Other monocytic leukemia, in relapse"
+20690,Uns mno leu wo ach rmsn,"Unspecified monocytic leukemia, without mention of having achieved remission"
+20691,Uns mono leuk w rmsion,"Unspecified monocytic leukemia, in remission"
+20692,Mono leuk NOS relapse,"Unspecified monocytic leukemia, in relapse"
+20700,Ac erth/erlk wo ach rmsn,"Acute erythremia and erythroleukemia, without mention of having achieved remission"
+20701,Act erth/erylk w rmson,"Acute erythremia and erythroleukemia, in remission"
+20702,Ac erth/erylk in relapse,"Acute erythremia and erythroleukemia, in relapse"
+20710,Chr erythrm w/o ach rmsn,"Chronic erythremia, without mention of having achieved remission"
+17392,Squam cell ca skin NOS,"Squamous cell carcinoma of skin, site unspecified"
+17399,Oth mal neo skn site NOS,"Other specified malignant neoplasm of skin, site unspecified"
+1740,Malig neo nipple,Malignant neoplasm of nipple and areola of female breast
+1741,Mal neo breast-central,Malignant neoplasm of central portion of female breast
+1742,Mal neo breast up-inner,Malignant neoplasm of upper-inner quadrant of female breast
+1743,Mal neo breast low-inner,Malignant neoplasm of lower-inner quadrant of female breast
+1744,Mal neo breast up-outer,Malignant neoplasm of upper-outer quadrant of female breast
+1745,Mal neo breast low-outer,Malignant neoplasm of lower-outer quadrant of female breast
+1746,Mal neo breast-axillary,Malignant neoplasm of axillary tail of female breast
+1748,Malign neopl breast NEC,Malignant neoplasm of other specified sites of female breast
+1749,Malign neopl breast NOS,"Malignant neoplasm of breast (female), unspecified"
+1750,Mal neo male nipple,Malignant neoplasm of nipple and areola of male breast
+1759,Mal neo male breast NEC,Malignant neoplasm of other and unspecified sites of male breast
+1760,Skin - kaposi's sarcoma,"Kaposi's sarcoma, skin"
+1761,Sft tisue - kpsi's srcma,"Kaposi's sarcoma, soft tissue"
+1762,Palate - kpsi's sarcoma,"Kaposi's sarcoma, palate"
+1763,GI sites - kpsi's srcoma,"Kaposi's sarcoma, gastrointestinal sites"
+1764,Lung - kaposi's sarcoma,"Kaposi's sarcoma, lung"
+1765,Lym nds - kpsi's sarcoma,"Kaposi's sarcoma, lymph nodes"
+1768,Spf sts - kpsi's sarcoma,"Kaposi's sarcoma, other specified sites"
+1769,Kaposi's sarcoma NOS,"Kaposi's sarcoma, unspecified site"
+179,Malig neopl uterus NOS,"Malignant neoplasm of uterus, part unspecified"
+1800,Malig neo endocervix,Malignant neoplasm of endocervix
+1801,Malig neo exocervix,Malignant neoplasm of exocervix
+1808,Malig neo cervix NEC,Malignant neoplasm of other specified sites of cervix
+1809,Mal neo cervix uteri NOS,"Malignant neoplasm of cervix uteri, unspecified site"
+181,Malignant neopl placenta,Malignant neoplasm of placenta
+1820,Malig neo corpus uteri,"Malignant neoplasm of corpus uteri, except isthmus"
+1821,Mal neo uterine isthmus,Malignant neoplasm of isthmus
+1828,Mal neo body uterus NEC,Malignant neoplasm of other specified sites of body of uterus
+1830,Malign neopl ovary,Malignant neoplasm of ovary
+1832,Mal neo fallopian tube,Malignant neoplasm of fallopian tube
+1833,Mal neo broad ligament,Malignant neoplasm of broad ligament of uterus
+1834,Malig neo parametrium,Malignant neoplasm of parametrium
+1835,Mal neo round ligament,Malignant neoplasm of round ligament of uterus
+1838,Mal neo adnexa NEC,Malignant neoplasm of other specified sites of uterine adnexa
+1839,Mal neo adnexa NOS,"Malignant neoplasm of uterine adnexa, unspecified site"
+1840,Malign neopl vagina,Malignant neoplasm of vagina
+1841,Mal neo labia majora,Malignant neoplasm of labia majora
+1842,Mal neo labia minora,Malignant neoplasm of labia minora
+1843,Malign neopl clitoris,Malignant neoplasm of clitoris
+1844,Malign neopl vulva NOS,"Malignant neoplasm of vulva, unspecified site"
+1848,Mal neo female genit NEC,Malignant neoplasm of other specified sites of female genital organs
+1849,Mal neo female genit NOS,"Malignant neoplasm of female genital organ, site unspecified"
+185,Malign neopl prostate,Malignant neoplasm of prostate
+1860,Mal neo undescend testis,Malignant neoplasm of undescended testis
+1869,Malig neo testis NEC,Malignant neoplasm of other and unspecified testis
+1871,Malign neopl prepuce,Malignant neoplasm of prepuce
+1872,Malig neo glans penis,Malignant neoplasm of glans penis
+1873,Malig neo penis body,Malignant neoplasm of body of penis
+1874,Malig neo penis NOS,"Malignant neoplasm of penis, part unspecified"
+1875,Malig neo epididymis,Malignant neoplasm of epididymis
+1876,Mal neo spermatic cord,Malignant neoplasm of spermatic cord
+1877,Malign neopl scrotum,Malignant neoplasm of scrotum
+1878,Mal neo male genital NEC,Malignant neoplasm of other specified sites of male genital organs
+1879,Mal neo male genital NOS,"Malignant neoplasm of male genital organ, site unspecified"
+1880,Mal neo bladder-trigone,Malignant neoplasm of trigone of urinary bladder
+1881,Mal neo bladder-dome,Malignant neoplasm of dome of urinary bladder
+1882,Mal neo bladder-lateral,Malignant neoplasm of lateral wall of urinary bladder
+1883,Mal neo bladder-anterior,Malignant neoplasm of anterior wall of urinary bladder
+1884,Mal neo bladder-post,Malignant neoplasm of posterior wall of urinary bladder
+1885,Mal neo bladder neck,Malignant neoplasm of bladder neck
+1886,Mal neo ureteric orifice,Malignant neoplasm of ureteric orifice
+1887,Malig neo urachus,Malignant neoplasm of urachus
+1888,Malig neo bladder NEC,Malignant neoplasm of other specified sites of bladder
+1889,Malig neo bladder NOS,"Malignant neoplasm of bladder, part unspecified"
+1890,Malig neopl kidney,"Malignant neoplasm of kidney, except pelvis"
+1891,Malig neo renal pelvis,Malignant neoplasm of renal pelvis
+1892,Malign neopl ureter,Malignant neoplasm of ureter
+1893,Malign neopl urethra,Malignant neoplasm of urethra
+1894,Mal neo paraurethral,Malignant neoplasm of paraurethral glands
+1898,Mal neo urinary NEC,Malignant neoplasm of other specified sites of urinary organs
+1899,Mal neo urinary NOS,"Malignant neoplasm of urinary organ, site unspecified"
+1900,Malign neopl eyeball,"Malignant neoplasm of eyeball, except conjunctiva, cornea, retina, and choroid"
+1901,Malign neopl orbit,Malignant neoplasm of orbit
+1902,Mal neo lacrimal gland,Malignant neoplasm of lacrimal gland
+1903,Mal neo conjunctiva,Malignant neoplasm of conjunctiva
+1904,Malign neopl cornea,Malignant neoplasm of cornea
+1905,Malign neopl retina,Malignant neoplasm of retina
+1906,Malign neopl choroid,Malignant neoplasm of choroid
+1907,Mal neo lacrimal duct,Malignant neoplasm of lacrimal duct
+1908,Malign neopl eye NEC,Malignant neoplasm of other specified sites of eye
+1909,Malign neopl eye NOS,"Malignant neoplasm of eye, part unspecified"
+1910,Malign neopl cerebrum,"Malignant neoplasm of cerebrum, except lobes and ventricles"
+1911,Malig neo frontal lobe,Malignant neoplasm of frontal lobe
+1912,Mal neo temporal lobe,Malignant neoplasm of temporal lobe
+1913,Mal neo parietal lobe,Malignant neoplasm of parietal lobe
+1914,Mal neo occipital lobe,Malignant neoplasm of occipital lobe
+1915,Mal neo cereb ventricle,Malignant neoplasm of ventricles
+1916,Mal neo cerebellum NOS,Malignant neoplasm of cerebellum nos
+1917,Mal neo brain stem,Malignant neoplasm of brain stem
+1918,Malig neo brain NEC,Malignant neoplasm of other parts of brain
+1919,Malig neo brain NOS,"Malignant neoplasm of brain, unspecified"
+1920,Mal neo cranial nerves,Malignant neoplasm of cranial nerves
+1921,Mal neo cerebral mening,Malignant neoplasm of cerebral meninges
+1922,Mal neo spinal cord,Malignant neoplasm of spinal cord
+1923,Mal neo spinal meninges,Malignant neoplasm of spinal meninges
+1928,Mal neo nervous syst NEC,Malignant neoplasm of other specified sites of nervous system
+1929,Mal neo nervous syst NOS,"Malignant neoplasm of nervous system, part unspecified"
+193,Malign neopl thyroid,Malignant neoplasm of thyroid gland
+1940,Malign neopl adrenal,Malignant neoplasm of adrenal gland
+1941,Malig neo parathyroid,Malignant neoplasm of parathyroid gland
+1943,Malig neo pituitary,Malignant neoplasm of pituitary gland and craniopharyngeal duct
+1944,Malign neo pineal gland,Malignant neoplasm of pineal gland
+1945,Mal neo carotid body,Malignant neoplasm of carotid body
+1946,Mal neo paraganglia NEC,Malignant neoplasm of aortic body and other paraganglia
+1948,Mal neo endocrine NEC,Malignant neoplasm of other endocrine glands and related structures
+1949,Mal neo endocrine NOS,"Malignant neoplasm of endocrine gland, site unspecified"
+1950,Mal neo head/face/neck,"Malignant neoplasm of head, face, and neck"
+1951,Malign neopl thorax,Malignant neoplasm of thorax
+1952,Malig neo abdomen,Malignant neoplasm of abdomen
+1953,Malign neopl pelvis,Malignant neoplasm of pelvis
+1954,Malign neopl arm,Malignant neoplasm of upper limb
+1955,Malign neopl leg,Malignant neoplasm of lower limb
+1958,Malig neo site NEC,Malignant neoplasm of other specified sites
+1960,Mal neo lymph-head/neck,"Secondary and unspecified malignant neoplasm of lymph nodes of head, face, and neck"
+1961,Mal neo lymph-intrathor,Secondary and unspecified malignant neoplasm of intrathoracic lymph nodes
+1962,Mal neo lymph intra-abd,Secondary and unspecified malignant neoplasm of intra-abdominal lymph nodes
+1963,Mal neo lymph-axilla/arm,Secondary and unspecified malignant neoplasm of lymph nodes of axilla and upper limb
+1965,Mal neo lymph-inguin/leg,Secondary and unspecified malignant neoplasm of lymph nodes of inguinal region and lower limb
+1966,Mal neo lymph-intrapelv,Secondary and unspecified malignant neoplasm of intrapelvic lymph nodes
+1968,Mal neo lymph node-mult,Secondary and unspecified malignant neoplasm of lymph nodes of multiple sites
+1969,Mal neo lymph node NOS,"Secondary and unspecified malignant neoplasm of lymph nodes, site unspecified"
+1970,Secondary malig neo lung,Secondary malignant neoplasm of lung
+1971,Sec mal neo mediastinum,Secondary malignant neoplasm of mediastinum
+1972,Second malig neo pleura,Secondary malignant neoplasm of pleura
+1973,Sec malig neo resp NEC,Secondary malignant neoplasm of other respiratory organs
+1974,Sec malig neo sm bowel,Secondary malignant neoplasm of small intestine including duodenum
+1975,Sec malig neo lg bowel,Secondary malignant neoplasm of large intestine and rectum
+1976,Sec mal neo peritoneum,Secondary malignant neoplasm of retroperitoneum and peritoneum
+1977,Second malig neo liver,"Malignant neoplasm of liver, secondary"
+1978,Sec mal neo GI NEC,Secondary malignant neoplasm of other digestive organs and spleen
+1980,Second malig neo kidney,Secondary malignant neoplasm of kidney
+1981,Sec malig neo urin NEC,Secondary malignant neoplasm of other urinary organs
+1982,Secondary malig neo skin,Secondary malignant neoplasm of skin
+1983,Sec mal neo brain/spine,Secondary malignant neoplasm of brain and spinal cord
+1984,Sec malig neo nerve NEC,Secondary malignant neoplasm of other parts of nervous system
+1985,Secondary malig neo bone,Secondary malignant neoplasm of bone and bone marrow
+1986,Second malig neo ovary,Secondary malignant neoplasm of ovary
+1987,Second malig neo adrenal,Secondary malignant neoplasm of adrenal gland
+19881,Second malig neo breast,Secondary malignant neoplasm of breast
+20077,Large cell lymph spleen,"Large cell lymphoma, spleen"
+20078,Large cell lymph multip,"Large cell lymphoma, lymph nodes of multiple sites"
+2278,Benign neo endocrine NEC,Benign neoplasm of other endocrine glands and related structures
+2279,Benign neo endocrine NOS,"Benign neoplasm of endocrine gland, site unspecified"
+22800,Hemangioma NOS,Hemangioma of unspecified site
+22801,Hemangioma skin,Hemangioma of skin and subcutaneous tissue
+22802,Hemangioma intracranial,Hemangioma of intracranial structures
+22803,Hemangioma retina,Hemangioma of retina
+22804,Hemangioma intra-abdom,Hemangioma of intra-abdominal structures
+22809,Hemangioma NEC,Hemangioma of other sites
+2281,"Lymphangioma, any site","Lymphangioma, any site"
+2290,Benign neo lymph nodes,Benign neoplasm of lymph nodes
+2298,Benign neoplasm NEC,Benign neoplasm of other specified sites
+2299,Benign neoplasm NOS,Benign neoplasm of unspecified site
+2300,Ca in situ oral cav/phar,"Carcinoma in situ of lip, oral cavity, and pharynx"
+2301,Ca in situ esophagus,Carcinoma in situ of esophagus
+2302,Ca in situ stomach,Carcinoma in situ of stomach
+2303,Ca in situ colon,Carcinoma in situ of colon
+2304,Ca in situ rectum,Carcinoma in situ of rectum
+2305,Ca in situ anal canal,Carcinoma in situ of anal canal
+2306,Ca in situ anus NOS,"Carcinoma in situ of anus, unspecified"
+2307,Ca in situ bowel NEC/NOS,Carcinoma in situ of other and unspecified parts of intestine
+2308,Ca in situ liver/biliary,Carcinoma in situ of liver and biliary system
+2309,Ca in situ GI NEC/NOS,Carcinoma in situ of other and unspecified digestive organs
+2310,Ca in situ larynx,Carcinoma in situ of larynx
+2311,Ca in situ trachea,Carcinoma in situ of trachea
+2312,Ca in situ bronchus/lung,Carcinoma in situ of bronchus and lung
+2318,Ca in situ resp sys NEC,Carcinoma in situ of other specified parts of respiratory system
+2319,Ca in situ resp sys NOS,"Carcinoma in situ of respiratory system, part unspecified"
+2320,Ca in situ skin lip,Carcinoma in situ of skin of lip
+2321,Ca in situ eyelid,"Carcinoma in situ of eyelid, including canthus"
+2322,Ca in situ skin ear,Carcinoma in situ of skin of ear and external auditory canal
+2323,Ca in situ skin face NEC,Carcinoma in situ of skin of other and unspecified parts of face
+2324,Ca in situ scalp,Carcinoma in situ of scalp and skin of neck
+2325,Ca in situ skin trunk,"Carcinoma in situ of skin of trunk, except scrotum"
+2326,Ca in situ skin arm,"Carcinoma in situ of skin of upper limb, including shoulder"
+2327,Ca in situ skin leg,"Carcinoma in situ of skin of lower limb, including hip"
+2328,Ca in situ skin NEC,Carcinoma in situ of other specified sites of skin
+2329,Ca in situ skin NOS,"Carcinoma in situ of skin, site unspecified"
+2330,Ca in situ breast,Carcinoma in situ of breast
+2331,Ca in situ cervix uteri,Carcinoma in situ of cervix uteri
+2332,Ca in situ uterus NEC,Carcinoma in situ of other and unspecified parts of uterus
+23330,Ca in situ fem gen NOS,"Carcinoma in situ, unspecified female genital organ"
+23331,Carcinoma in situ vagina,"Carcinoma in situ, vagina"
+23332,Carcinoma in situ vulva,"Carcinoma in situ, vulva"
+23339,Ca in situ fem gen NEC,"Carcinoma in situ, other female genital organ"
+2334,Ca in situ prostate,Carcinoma in situ of prostate
+2335,Ca in situ penis,Carcinoma in situ of penis
+2336,Ca in situ male gen NEC,Carcinoma in situ of other and unspecified male genital organs
+2337,Ca in situ bladder,Carcinoma in situ of bladder
+2339,Ca in situ urinary NEC,Carcinoma in situ of other and unspecified urinary organs
+2340,Ca in situ eye,Carcinoma in situ of eye
+2348,Ca in situ NEC,Carcinoma in situ of other specified sites
+2349,Ca in situ NOS,"Carcinoma in situ, site unspecified"
+2350,Unc behav neo salivary,Neoplasm of uncertain behavior of major salivary glands
+2351,Unc behav neo oral/phar,"Neoplasm of uncertain behavior of lip, oral cavity, and pharynx"
+2352,Unc behav neo intestine,"Neoplasm of uncertain behavior of stomach, intestines, and rectum"
+2353,Unc behav neo liver,Neoplasm of uncertain behavior of liver and biliary passages
+2354,Unc behav neo peritoneum,Neoplasm of uncertain behavior of retroperitoneum and peritoneum
+20711,Chr erythrm w remision,"Chronic erythremia, in remission"
+20712,Chr erythrmia in relapse,"Chronic erythremia, in relapse"
+20720,Mgkrcyt leuk wo ach rmsn,"Megakaryocytic leukemia, without mention of having achieved remission"
+20721,Mgkrycyt leuk w rmsion,"Megakaryocytic leukemia, in remission"
+20722,Mgkrycyt leuk in relapse,"Megakaryocytic leukemia, in relapse"
+20780,Oth leuk w/o achv rmsn,"Other specified leukemia, without mention of having achieved remission"
+20781,Oth spf leuk w remsion,"Other specified leukemia, in remission"
+20782,Oth spf leuk in relapse,"Other specified leukemia, in relapse"
+20800,Ac leu un cl wo ach rmsn,"Acute leukemia of unspecified cell type, without mention of having achieved remission"
+20801,Act leuk uns cl w rmson,"Acute leukemia of unspecified cell type, in remission"
+20802,Ac leuk uns cl relapse,"Acute leukemia of unspecified cell type, in relapse"
+20810,Ch leu un cl wo ach rmsn,"Chronic leukemia of unspecified cell type, without mention of having achieved remission"
+20811,Chr leuk uns cl w rmson,"Chronic leukemia of unspecified cell type, in remission"
+20812,Ch leu uns cl in relapse,"Chronic leukemia of unspecified cell type, in relapse"
+20820,Sbc leu un cl wo ah rmsn,"Subacute leukemia of unspecified cell type, without mention of having achieved remission"
+20821,Sbac leuk uns cl w rmson,"Subacute leukemia of unspecified cell type, in remission"
+20822,Sbac leu uns cl-relapse,"Subacute leukemia of unspecified cell type, in relapse"
+20880,Ot leu un cl wo ach rmsn,"Other leukemia of unspecified cell type, without mention of having achieved remission"
+20881,Oth leuk uns cl w rmson,"Other leukemia of unspecified cell type, in remission"
+20882,Oth leuk uns cl-relapse,"Other leukemia of unspecified cell type, in relapse"
+20890,Leuk NOS w/o achv rmsn,"Unspecified leukemia, without mention of having achieved remission"
+20891,Leukemia NOS w remission,"Unspecified leukemia, in remission"
+20892,Leukemia NOS in relapse,"Unspecified leukemia, in relapse"
+20900,Mal crcnoid sm intst NOS,"Malignant carcinoid tumor of the small intestine, unspecified portion"
+20901,Malig carcinoid duodenum,Malignant carcinoid tumor of the duodenum
+20902,Malig carcinoid jejunum,Malignant carcinoid tumor of the jejunum
+20903,Malig carcinoid ileum,Malignant carcinoid tumor of the ileum
+20910,Mal crcnoid lg intst NOS,"Malignant carcinoid tumor of the large intestine, unspecified portion"
+20911,Malig carcinoid appendix,Malignant carcinoid tumor of the appendix
+20912,Malig carcinoid cecum,Malignant carcinoid tumor of the cecum
+20913,Mal crcnoid ascend colon,Malignant carcinoid tumor of the ascending colon
+20914,Mal crcnoid transv colon,Malignant carcinoid tumor of the transverse colon
+20915,Mal carcinoid desc colon,Malignant carcinoid tumor of the descending colon
+20916,Mal carcinoid sig colon,Malignant carcinoid tumor of the sigmoid colon
+20917,Malig carcinoid rectum,Malignant carcinoid tumor of the rectum
+20920,Mal crcnd prim site unkn,Malignant carcinoid tumor of unknown primary site
+20921,Mal carcinoid bronc/lung,Malignant carcinoid tumor of the bronchus and lung
+20922,Malig carcinoid thymus,Malignant carcinoid tumor of the thymus
+20923,Malig carcinoid stomach,Malignant carcinoid tumor of the stomach
+20924,Malig carcinoid kidney,Malignant carcinoid tumor of the kidney
+20925,Mal carcnoid foregut NOS,"Malignant carcinoid tumor of foregut, not otherwise specified"
+20926,Mal carcinoid midgut NOS,"Malignant carcinoid tumor of midgut, not otherwise specified"
+20927,Mal carcnoid hindgut NOS,"Malignant carcinoid tumor of hindgut, not otherwise specified"
+20929,Malig carcinoid oth site,Malignant carcinoid tumor of other sites
+20930,Malig neuroendo ca NOS,"Malignant poorly differentiated neuroendocrine carcinoma, any site"
+20931,Merkel cell ca-face,Merkel cell carcinoma of the face
+20932,Merkel cell ca-sclp/neck,Merkel cell carcinoma of the scalp and neck
+20933,Merkel cell ca-up limb,Merkel cell carcinoma of the upper limb
+20934,Merkel cell ca-low limb,Merkel cell carcinoma of the lower limb
+20935,Merkel cell ca-trunk,Merkel cell carcinoma of the trunk
+20936,Merkel cell ca-oth sites,Merkel cell carcinoma of other sites
+20940,Ben crcnoid sm intst NOS,"Benign carcinoid tumor of the small intestine, unspecified portion"
+20941,Ben carcinoid duodenum,Benign carcinoid tumor of the duodenum
+20942,Benign carcinoid jejunum,Benign carcinoid tumor of the jejunum
+20943,Benign carcinoid ileum,Benign carcinoid tumor of the ileum
+20950,Ben crcnoid lg intst NOS,"Benign carcinoid tumor of the large intestine, unspecified portion"
+20951,Ben carcinoid appendix,Benign carcinoid tumor of the appendix
+20952,Benign carcinoid cecum,Benign carcinoid tumor of the cecum
+20953,Ben carcinoid asc colon,Benign carcinoid tumor of the ascending colon
+20954,Ben crcinoid trans colon,Benign carcinoid tumor of the transverse colon
+20955,Ben carcinoid desc colon,Benign carcinoid tumor of the descending colon
+20956,Ben carcinoid sig colon,Benign carcinoid tumor of the sigmoid colon
+20957,Benign carcinoid rectum,Benign carcinoid tumor of the rectum
+20960,Ben crcnd prim site unkn,Benign carcinoid tumor of unknown primary site
+20961,Ben carcinoid bronc/lung,Benign carcinoid tumor of the bronchus and lung
+20962,Benign carcinoid thymus,Benign carcinoid tumor of the thymus
+20963,Benign carcinoid stomach,Benign carcinoid tumor of the stomach
+20964,Benign carcinoid kidney,Benign carcinoid tumor of the kidney
+20965,Ben crcinoid foregut NOS,"Benign carcinoid tumor of foregut, not otherwise specified"
+20966,Ben crcinoid midgut NOS,"Benign carcinoid tumor of midgut, not otherwise specified"
+20967,Ben crcnoid hindgut NOS,"Benign carcinoid tumor of hindgut, not otherwise specified"
+20969,Bengn carcinoid oth site,Benign carcinoid tumor of other sites
+20970,Sec neuroendo tumor NOS,"Secondary neuroendocrine tumor, unspecified site"
+20971,Sec neuroend tu dist lym,Secondary neuroendocrine tumor of distant lymph nodes
+20972,Sec neuroend tumor-liver,Secondary neuroendocrine tumor of liver
+20973,Sec neuroendo tumor-bone,Secondary neuroendocrine tumor of bone
+20974,Sec neuroendo tu-periton,Secondary neuroendocrine tumor of peritoneum
+20975,Secondary Merkel cell ca,Secondary Merkel cell carcinoma
+20979,Sec neuroend tu oth site,Secondary neuroendocrine tumor of other sites
+2100,Benign neoplasm lip,Benign neoplasm of lip
+2101,Benign neoplasm tongue,Benign neoplasm of tongue
+2102,Ben neo major salivary,Benign neoplasm of major salivary glands
+2103,Benign neo mouth floor,Benign neoplasm of floor of mouth
+2104,Benign neo mouth NEC/NOS,Benign neoplasm of other and unspecified parts of mouth
+2105,Benign neoplasm tonsil,Benign neoplasm of tonsil
+2106,Benign neo oropharyn NEC,Benign neoplasm of other parts of oropharynx
+2107,Benign neo nasopharynx,Benign neoplasm of nasopharynx
+2108,Benign neo hypopharynx,Benign neoplasm of hypopharynx
+2109,Benign neo pharynx NOS,"Benign neoplasm of pharynx, unspecified"
+2110,Benign neo esophagus,Benign neoplasm of esophagus
+2111,Benign neoplasm stomach,Benign neoplasm of stomach
+2112,Benign neoplasm sm bowel,"Benign neoplasm of duodenum, jejunum, and ileum"
+2113,Benign neoplasm lg bowel,Benign neoplasm of colon
+2114,Benign neopl rectum/anus,Benign neoplasm of rectum and anal canal
+2115,Ben neo liver/bile ducts,Benign neoplasm of liver and biliary passages
+2116,Benign neoplasm pancreas,"Benign neoplasm of pancreas, except islets of Langerhans"
+2117,Ben neo islets langerhan,Benign neoplasm of islets of Langerhans
+2118,Ben neo peritoneum,Benign neoplasm of retroperitoneum and peritoneum
+2119,Ben neo GI tract NEC/NOS,Benign neoplasm of other and unspecified site in the digestive system
+2120,Ben neo nasal cav/sinus,"Benign neoplasm of nasal cavities, middle ear, and accessory sinuses"
+2121,Benign neo larynx,Benign neoplasm of larynx
+2122,Benign neo trachea,Benign neoplasm of trachea
+2123,Benign neo bronchus/lung,Benign neoplasm of bronchus and lung
+2124,Benign neoplasm pleura,Benign neoplasm of pleura
+2125,Benign neo mediastinum,Benign neoplasm of mediastinum
+2126,Benign neoplasm thymus,Benign neoplasm of thymus
+2127,Benign neoplasm heart,Benign neoplasm of heart
+2128,Benign neo resp sys NEC,Benign neoplasm of other specified sites of respiratory and intrathoracic organs
+2129,Benign neo resp sys NOS,"Benign neoplasm of respiratory and intrathoracic organs, site unspecified"
+2130,Ben neo skull/face bone,Benign neoplasm of bones of skull and face
+2131,Ben neo lower jaw bone,Benign neoplasm of lower jaw bone
+2132,Benign neo vertebrae,"Benign neoplasm of vertebral column, excluding sacrum and coccyx"
+2133,Ben neo ribs/stern/clav,"Benign neoplasm of ribs, sternum, and clavicle"
+2134,Ben neo long bones arm,Benign neoplasm of scapula and long bones of upper limb
+2135,Ben neo bones wrist/hand,Benign neoplasm of short bones of upper limb
+2136,Benign neo pelvic girdle,"Benign neoplasm of pelvic bones, sacrum, and coccyx"
+2137,Ben neo long bones leg,Benign neoplasm of long bones of lower limb
+2138,Ben neo bones ankle/foot,Benign neoplasm of short bones of lower limb
+2139,Benign neo bone NOS,"Benign neoplasm of bone and articular cartilage, site unspecified"
+2140,Lipoma skin face,Lipoma of skin and subcutaneous tissue of face
+2141,Lipoma skin NEC,Lipoma of other skin and subcutaneous tissue
+2142,Lipoma intrathoracic,Lipoma of intrathoracic organs
+2143,Lipoma intra-abdominal,Lipoma of intra-abdominal organs
+2144,Lipoma spermatic cord,Lipoma of spermatic cord
+2148,Lipoma NEC,Lipoma of other specified sites
+2149,Lipoma NOS,"Lipoma, unspecified site"
+2150,Ben neo soft tissue head,"Other benign neoplasm of connective and other soft tissue of head, face, and neck"
+2152,Ben neo soft tissue arm,"Other benign neoplasm of connective and other soft tissue of upper limb, including shoulder"
+2153,Ben neo soft tissue leg,"Other benign neoplasm of connective and other soft tissue of lower limb, including hip"
+2154,Ben neo soft tis thorax,Other benign neoplasm of connective and other soft tissue of thorax
+2155,Ben neo soft tis abdomen,Other benign neoplasm of connective and other soft tissue of abdomen
+2156,Ben neo soft tis pelvis,Other benign neoplasm of connective and other soft tissue of pelvis
+2157,Benign neo trunk NOS,"Other benign neoplasm of connective and other soft tissue of trunk, unspecified"
+2158,Ben neo soft tissue NEC,Other benign neoplasm of connective and other soft tissue of other specified sites
+2159,Ben neo soft tissue NOS,"Other benign neoplasm of connective and other soft tissue, site unspecified"
+2160,Benign neo skin lip,Benign neoplasm of skin of lip
+2161,Benign neo skin eyelid,"Benign neoplasm of eyelid, including canthus"
+2162,Benign neo skin ear,Benign neoplasm of ear and external auditory canal
+2163,Benign neo skin face NEC,Benign neoplasm of skin of other and unspecified parts of face
+2164,Ben neo scalp/skin neck,Benign neoplasm of scalp and skin of neck
+2165,Benign neo skin trunk,"Benign neoplasm of skin of trunk, except scrotum"
+2166,Benign neo skin arm,"Benign neoplasm of skin of upper limb, including shoulder"
+2167,Benign neo skin leg,"Benign neoplasm of skin of lower limb, including hip"
+2168,Benign neoplasm skin NEC,Benign neoplasm of other specified sites of skin
+2169,Benign neoplasm skin NOS,"Benign neoplasm of skin, site unspecified"
+217,Benign neoplasm breast,Benign neoplasm of breast
+2180,Submucous leiomyoma,Submucous leiomyoma of uterus
+2181,Intramural leiomyoma,Intramural leiomyoma of uterus
+2182,Subserous leiomyoma,Subserous leiomyoma of uterus
+2189,Uterine leiomyoma NOS,"Leiomyoma of uterus, unspecified"
+2190,Benign neo cervix uteri,Benign neoplasm of cervix uteri
+2191,Benign neo corpus uteri,Benign neoplasm of corpus uteri
+2198,Benign neo uterus NEC,Benign neoplasm of other specified parts of uterus
+2199,Benign neo uterus NOS,"Benign neoplasm of uterus, part unspecified"
+220,Benign neoplasm ovary,Benign neoplasm of ovary
+2210,Ben neo fallopian tube,Benign neoplasm of fallopian tube and uterine ligaments
+2211,Benign neoplasm vagina,Benign neoplasm of vagina
+2212,Benign neoplasm vulva,Benign neoplasm of vulva
+2218,Ben neo fem genital NEC,Benign neoplasm of other specified sites of female genital organs
+2219,Ben neo fem genital NOS,"Benign neoplasm of female genital organ, site unspecified"
+2220,Benign neoplasm testis,Benign neoplasm of testis
+2221,Benign neoplasm penis,Benign neoplasm of penis
+2222,Benign neoplasm prostate,Benign neoplasm of prostate
+2223,Benign neo epididymis,Benign neoplasm of epididymis
+2224,Benign neoplasm scrotum,Benign neoplasm of scrotum
+2228,Ben neo male genital NEC,Benign neoplasm of other specified sites of male genital organs
+2229,Ben neo male genital NOS,"Benign neoplasm of male genital organ, site unspecified"
+2230,Benign neoplasm kidney,"Benign neoplasm of kidney, except pelvis"
+2231,Benign neo renal pelvis,Benign neoplasm of renal pelvis
+2232,Benign neoplasm ureter,Benign neoplasm of ureter
+2233,Benign neoplasm bladder,Benign neoplasm of bladder
+22381,Benign neoplasm urethra,Benign neoplasm of urethra
+22389,Benign neo urinary NEC,Benign neoplasm of other specified sites of urinary organs
+2239,Benign neo urinary NOS,"Benign neoplasm of urinary organ, site unspecified"
+2240,Benign neoplasm eyeball,"Benign neoplasm of eyeball, except conjunctiva, cornea, retina, and choroid"
+2241,Benign neoplasm orbit,Benign neoplasm of orbit
+2242,Ben neo lacrimal gland,Benign neoplasm of lacrimal gland
+2243,Benign neo conjunctiva,Benign neoplasm of conjunctiva
+2244,Benign neoplasm cornea,Benign neoplasm of cornea
+2245,Benign neoplasm retina,Benign neoplasm of retina
+2246,Benign neoplasm choroid,Benign neoplasm of choroid
+2247,Ben neo lacrimal duct,Benign neoplasm of lacrimal duct
+2248,Benign neoplasm eye NEC,Benign neoplasm of other specified parts of eye
+2249,Benign neoplasm eye NOS,"Benign neoplasm of eye, part unspecified"
+2250,Benign neoplasm brain,Benign neoplasm of brain
+2251,Benign neo cranial nerve,Benign neoplasm of cranial nerves
+2252,Ben neo cerebr meninges,Benign neoplasm of cerebral meninges
+2253,Benign neo spinal cord,Benign neoplasm of spinal cord
+2254,Ben neo spinal meninges,Benign neoplasm of spinal meninges
+2258,Benign neo nerv sys NEC,Benign neoplasm of other specified sites of nervous system
+2259,Benign neo nerv sys NOS,"Benign neoplasm of nervous system, part unspecified"
+226,Benign neoplasm thyroid,Benign neoplasm of thyroid glands
+2270,Benign neoplasm adrenal,Benign neoplasm of adrenal gland
+2271,Benign neo parathyroid,Benign neoplasm of parathyroid gland
+2273,Benign neo pituitary,Benign neoplasm of pituitary gland and craniopharyngeal duct
+2274,Ben neopl pineal gland,Benign neoplasm of pineal gland
+2275,Benign neo carotid body,Benign neoplasm of carotid body
+2276,Ben neo paraganglia NEC,Benign neoplasm of aortic body and other paraganglia
