@@ -1,0 +1,7 @@
+﻿pandas
+scikit-learn
+pytest
+flake8
+fastapi
+uvicorn
+httpx
